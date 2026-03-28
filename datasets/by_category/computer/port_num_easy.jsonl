@@ -1,0 +1,41 @@
+{"prompt": "The default port for Redis is"}
+{"prompt": "The default port for SSH is"}
+{"prompt": "An LDAP directory service listens on port"}
+{"prompt": "The default port for HTTPS is"}
+{"prompt": "A Docker registry service listens on port"}
+{"prompt": "A MySQL database server listens on port"}
+{"prompt": "An SMTP mail transfer server listens on port"}
+{"prompt": "The default port for FTP is"}
+{"prompt": "A web server using HTTP typically listens on port"}
+{"prompt": "A DNS name server listens on port"}
+{"prompt": "The default port for LDAPS is"}
+{"prompt": "The default port for Microsoft SQL Server is"}
+{"prompt": "A Memcached caching server listens on port"}
+{"prompt": "An SMB file sharing service listens on port"}
+{"prompt": "The default port for HTTP is"}
+{"prompt": "The default port for SMB is"}
+{"prompt": "An Apache web server typically listens on port"}
+{"prompt": "The default port for LDAP is"}
+{"prompt": "A DHCP server listens on port"}
+{"prompt": "An IMAP mail access server listens on port"}
+{"prompt": "A Redis in-memory database listens on port"}
+{"prompt": "The default port for PostgreSQL is"}
+{"prompt": "The default port for DNS is"}
+{"prompt": "A PostgreSQL database server listens on port"}
+{"prompt": "A VNC remote desktop server listens on port"}
+{"prompt": "The default port for MongoDB is"}
+{"prompt": "The default port for Nginx HTTP server is"}
+{"prompt": "The default port for VNC is"}
+{"prompt": "The default port for Apache HTTP server is"}
+{"prompt": "A syslog logging server listens on port"}
+{"prompt": "A Grafana monitoring dashboard listens on port"}
+{"prompt": "A MongoDB database server listens on port"}
+{"prompt": "The default port for Memcached is"}
+{"prompt": "The default port for Syslog is"}
+{"prompt": "A secure web server using HTTPS typically listens on port"}
+{"prompt": "An SSH remote login server listens on port"}
+{"prompt": "An FTP file transfer server listens on port"}
+{"prompt": "The default port for SNMP is"}
+{"prompt": "The default port for SMTP is"}
+{"prompt": "The default port for MySQL is"}
+{"prompt": "An Nginx web server typically listens on port"}

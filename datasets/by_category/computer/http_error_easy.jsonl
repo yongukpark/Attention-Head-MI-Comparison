@@ -1,0 +1,13 @@
+{"prompt":"The HTTP status code for 'Not Found' is '"}
+{"prompt":"The HTTP status code for 'Forbidden' is '"}
+{"prompt":"The HTTP status code for 'Unauthorized' is '"}
+{"prompt":"The HTTP status code for 'Bad Request' is '"}
+{"prompt":"The HTTP status code for 'Too Many Requests' is '"}
+{"prompt":"The HTTP status code for 'Internal Server Error' is '"}
+{"prompt":"The HTTP status code for 'Service Unavailable' is '"}
+{"prompt":"The HTTP status code for 'Conflict' is '"}
+{"prompt":"The HTTP status code for 'Payload Too Large' is '"}
+{"prompt":"The HTTP status code for 'Unsupported Media Type' is '"}
+{"prompt":"The HTTP status code for 'Continue' is '"}
+{"prompt":"The HTTP status code for 'OK' is '"}
+{"prompt":"The HTTP status code for 'Created' is '"}
