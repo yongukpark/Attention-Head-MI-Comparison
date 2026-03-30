@@ -39,25 +39,23 @@ HeadPatcher/
 ```bash
 pip install -r requirement.txt
 
-# Run on all datasets (default: resampling_patch)
-python scripts/run.py
-
 # Run with zero ablation
 python scripts/run.py --method zero_ablation
 
-# Run on a single dataset
-python scripts/run.py --prompt-path datasets/animals/habitat.jsonl
-
-# Select top-10 significant heads for one dataset
-python analysis/select_heads.py \
-    --input outputs/resampling_patch/capitals/europe/summary_by_head.csv
-
 # Select top-5 heads across all datasets, save results
 python analysis/select_heads.py \
-    --input outputs/resampling_patch \
+    --input outputs/zero_ablation \
+    --method zero_ablation \
     --top-k 5 \
-    --output analysis/top_heads/
+    --output analysis/resampling/
+
+# Replace to json format
+python analysis/build_annotation.py \
+    --input analysis/zero_ablation \
+    --output analysis/zero_ablation/annotations.json
+
 ```
+Import json file to [visualization](https://headbb.vercel.app/)
 
 ---
 
@@ -116,3 +114,37 @@ One row per head, sorted by `base_token_prob_delta_mean` (most negative first).
 ### `prompt_by_head.csv`
 
 One row per `(head, prompt)` pair with the same metrics at per-prompt granularity.
+
+---
+
+## Head Selection (`analysis/select_heads.py`)
+
+Ranks heads by `donor_token_rank_post_mean` ascending. Ties broken by `donor_token_logit_delta_mean` descending.
+
+```bash
+# Single dataset, top-5 (default)
+python analysis/select_heads.py -i outputs/resampling_patch/capitals/europe/summary_by_head.csv
+
+# All datasets, save results
+python analysis/select_heads.py -i outputs/resampling_patch -o analysis/resampling/
+
+# Top-10, zero_ablation
+python analysis/select_heads.py -i outputs/zero_ablation -k 10 -m zero_ablation -o analysis/zero_ablation/
+```
+
+Output: `analysis/resampling/{category}/{source}/top5_heads.csv`
+
+---
+
+## Annotation Generation (`analysis/build_annotations.py`)
+
+Scans all `top*_heads.csv` under the input directory and generates a structured JSON annotation file. Tags are derived from `{category}/{source}` folder names.
+
+```bash
+python analysis/build_annotations.py
+
+# Custom paths
+python analysis/build_annotations.py -i analysis/resampling -o analysis/annotations.json
+```
+
+Output: `analysis/annotations.json`

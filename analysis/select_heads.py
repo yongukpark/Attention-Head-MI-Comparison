@@ -7,12 +7,8 @@ import sys
 from pathlib import Path
 
 SORT_KEY = {
-    "resampling_patch": ("donor_token_rank_post_mean", True),
-    "zero_ablation":    ("base_token_prob_delta_mean", True),
-}
-
-TIEBREAK = {
-    "resampling_patch": ("donor_token_logit_delta_mean", False),
+    "resampling_patch": lambda r: (float(r["donor_token_rank_post_mean"]), -float(r["donor_token_logit_delta_mean"])),
+    "zero_ablation":    lambda r: float(r["base_token_prob_delta_mean"]),
 }
 
 
@@ -31,23 +27,12 @@ def save_csv(path: Path, rows: list[dict]) -> None:
 
 def process_one(csv_path: Path, method: str, k: int, output: Path | None) -> None:
     rows = load_csv(csv_path)
-    sort_col, ascending = SORT_KEY[method]
 
-    if not rows or sort_col not in rows[0]:
-        print(f"[skip] {csv_path} — no '{sort_col}' column", file=sys.stderr)
+    try:
+        top = sorted(rows, key=SORT_KEY[method])[:k]
+    except (KeyError, ValueError):
+        print(f"[skip] {csv_path} — missing columns for method '{method}'", file=sys.stderr)
         return
-
-    tb_col, tb_desc = TIEBREAK.get(method, (None, None))
-
-    def sort_key(r):
-        primary = float(r[sort_col]) * (1 if ascending else -1)
-        secondary = -float(r[tb_col]) if (tb_col and tb_desc and r.get(tb_col) not in (None, "")) else 0
-        return (primary, secondary)
-
-    top = sorted(
-        [r for r in rows if r.get(sort_col) not in (None, "")],
-        key=sort_key,
-    )[:k]
 
     if output is not None:
         save_csv(output, top)

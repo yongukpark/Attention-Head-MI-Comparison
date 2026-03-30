@@ -46,10 +46,16 @@ def compute_prompt_metrics(
 
     if donor_item is not None:
         donor_top1_id = donor_item["baseline_top1_id"]
-        row["donor_token_prob_delta"]  = float(modified_probs[donor_top1_id].item() - baseline_probs[donor_top1_id].item())
+        donor_baseline_prob = float(baseline_probs[donor_top1_id].item())
+        donor_modified_prob = float(modified_probs[donor_top1_id].item())
+        row["donor_token_prob_delta"]         = donor_modified_prob - donor_baseline_prob
+        row["donor_token_prob_increase_rate"]  = (donor_modified_prob - donor_baseline_prob) / max(donor_baseline_prob, eps)
         row["donor_token_logit_delta"] = float(modified_logits[donor_top1_id].item() - baseline_logits[donor_top1_id].item())
-        row["donor_token_rank_pre"]    = int((baseline_probs > baseline_probs[donor_top1_id]).sum().item()) + 1
-        row["donor_token_rank_post"]   = int((modified_probs  > modified_probs[donor_top1_id]).sum().item()) + 1
+        donor_rank_pre  = int((baseline_probs > baseline_probs[donor_top1_id]).sum().item()) + 1
+        donor_rank_post = int((modified_probs  > modified_probs[donor_top1_id]).sum().item()) + 1
+        row["donor_token_rank_pre"]       = donor_rank_pre
+        row["donor_token_rank_post"]      = donor_rank_post
+        row["donor_token_rank_increased"] = donor_rank_post < donor_rank_pre
 
     return row
 
@@ -70,9 +76,11 @@ def compute_head_summary(prompt_metrics: list[dict]) -> dict:
     }
 
     if "donor_token_prob_delta" in prompt_metrics[0]:
-        summary["donor_token_prob_delta_mean"]  = sum(r["donor_token_prob_delta"]  for r in prompt_metrics) / n
+        summary["donor_token_prob_delta_mean"]         = sum(r["donor_token_prob_delta"]         for r in prompt_metrics) / n
+        summary["donor_token_prob_increase_rate_mean"] = sum(r["donor_token_prob_increase_rate"] for r in prompt_metrics) / n
         summary["donor_token_logit_delta_mean"] = sum(r["donor_token_logit_delta"] for r in prompt_metrics) / n
-        summary["donor_token_rank_pre_mean"]    = round(sum(r["donor_token_rank_pre"]    for r in prompt_metrics) / n)
-        summary["donor_token_rank_post_mean"]   = round(sum(r["donor_token_rank_post"]   for r in prompt_metrics) / n)
+        summary["donor_token_rank_pre_mean"]       = round(sum(r["donor_token_rank_pre"]       for r in prompt_metrics) / n)
+        summary["donor_token_rank_post_mean"]      = round(sum(r["donor_token_rank_post"]      for r in prompt_metrics) / n)
+        summary["donor_token_rank_increased_ratio"] = sum(1 for r in prompt_metrics if r["donor_token_rank_increased"]) / n
 
     return summary

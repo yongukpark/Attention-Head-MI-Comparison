@@ -1,0 +1,4 @@
+head,prompt_count,base_token_prob_delta_mean,base_token_prob_decrease_ratio,base_token_changed_ratio,base_token_logit_delta_mean,base_token_rank_post_mean,entropy_delta_mean,kl_divergence_mean,donor_token_prob_delta_mean,donor_token_prob_increase_rate_mean,donor_token_logit_delta_mean,donor_token_rank_pre_mean,donor_token_rank_post_mean,donor_token_rank_increased_ratio
+L15.H7,25,-0.172113037109375,0.96,0.28,-1.0359375,2,0.8672427177429199,0.2910798466205597,0.0347222113609314,216.7184173862751,3.13337890625,546,18,0.96
+L17.H6,25,-0.03509765625,0.8,0.04,-0.231875,1,0.24105103969573974,0.032350097023881974,0.0027114272117614744,5.972710690869427,1.07541015625,546,144,0.96
+L14.H7,25,-0.01193359375,0.72,0.0,-0.0646875,1,0.06892296314239502,0.01082883685361594,0.001020336151123047,1.165471258869114,0.55916015625,546,254,0.92
