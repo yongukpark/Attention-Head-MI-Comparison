@@ -1,0 +1,374 @@
+{
+  "modelName": "Pythia-1.4B",
+  "numLayers": 24,
+  "numHeads": 16,
+  "annotations": {
+    "L10H0": {
+      "layer": 10,
+      "head": 0,
+      "tags": [
+        "famous_patching/induction_head"
+      ],
+      "descriptions": {
+        "famous_patching/induction_head": "(1)"
+      }
+    },
+    "L11H1": {
+      "layer": 11,
+      "head": 1,
+      "tags": [
+        "colors/color_fs_corr",
+        "computer/http_error_easy"
+      ],
+      "descriptions": {
+        "colors/color_fs_corr": "(1)",
+        "computer/http_error_easy": "(1)"
+      }
+    },
+    "L11H6": {
+      "layer": 11,
+      "head": 6,
+      "tags": [
+        "lexical_relations/past"
+      ],
+      "descriptions": {
+        "lexical_relations/past": "(1)"
+      }
+    },
+    "L12H0": {
+      "layer": 12,
+      "head": 0,
+      "tags": [
+        "lexical_relations/order3",
+        "mathematics/add",
+        "mathematics/arithmetic_progression"
+      ],
+      "descriptions": {
+        "lexical_relations/order3": "(1)",
+        "mathematics/add": "(1)",
+        "mathematics/arithmetic_progression": "(1)"
+      }
+    },
+    "L12H15": {
+      "layer": 12,
+      "head": 15,
+      "tags": [
+        "lexical_relations/plural"
+      ],
+      "descriptions": {
+        "lexical_relations/plural": "(1)"
+      }
+    },
+    "L13H1": {
+      "layer": 13,
+      "head": 1,
+      "tags": [
+        "famous_patching/indirect_object_identification"
+      ],
+      "descriptions": {
+        "famous_patching/indirect_object_identification": "(1)"
+      }
+    },
+    "L13H13": {
+      "layer": 13,
+      "head": 13,
+      "tags": [
+        "feelings/negative"
+      ],
+      "descriptions": {
+        "feelings/negative": "(1)"
+      }
+    },
+    "L13H2": {
+      "layer": 13,
+      "head": 2,
+      "tags": [
+        "lexical_relations/opposite",
+        "lexical_relations/order2"
+      ],
+      "descriptions": {
+        "lexical_relations/opposite": "(1)",
+        "lexical_relations/order2": "(1)"
+      }
+    },
+    "L13H6": {
+      "layer": 13,
+      "head": 6,
+      "tags": [
+        "science/chemical_symbols"
+      ],
+      "descriptions": {
+        "science/chemical_symbols": "(1)"
+      }
+    },
+    "L14H2": {
+      "layer": 14,
+      "head": 2,
+      "tags": [
+        "time/historical_year"
+      ],
+      "descriptions": {
+        "time/historical_year": "(1)"
+      }
+    },
+    "L14H5": {
+      "layer": 14,
+      "head": 5,
+      "tags": [
+        "Greek_mythology/gods",
+        "computer/port_num_easy",
+        "job/workplace",
+        "medical/sympytom-disease",
+        "music/instruments_fs",
+        "pair/object_function",
+        "science/celestial_object",
+        "science/unit",
+        "translation/eng-chinese",
+        "translation/eng-french",
+        "translation/eng-german",
+        "translation/eng-italian",
+        "translation/eng-spanish"
+      ],
+      "descriptions": {
+        "Greek_mythology/gods": "(1)",
+        "computer/port_num_easy": "(1)",
+        "job/workplace": "(1)",
+        "medical/sympytom-disease": "(1)",
+        "music/instruments_fs": "(1)",
+        "pair/object_function": "(1)",
+        "science/celestial_object": "(1)",
+        "science/unit": "(1)",
+        "translation/eng-chinese": "(1)",
+        "translation/eng-french": "(1)",
+        "translation/eng-german": "(1)",
+        "translation/eng-italian": "(1)",
+        "translation/eng-spanish": "(1)"
+      }
+    },
+    "L14H7": {
+      "layer": 14,
+      "head": 7,
+      "tags": [
+        "foods/ingredient",
+        "foods/nutrient"
+      ],
+      "descriptions": {
+        "foods/ingredient": "(1)",
+        "foods/nutrient": "(1)"
+      }
+    },
+    "L15H13": {
+      "layer": 15,
+      "head": 13,
+      "tags": [
+        "medical/disease-organ",
+        "medical/specialty"
+      ],
+      "descriptions": {
+        "medical/disease-organ": "(1)",
+        "medical/specialty": "(1)"
+      }
+    },
+    "L15H7": {
+      "layer": 15,
+      "head": 7,
+      "tags": [
+        "capitals/africa",
+        "capitals/asia",
+        "capitals/easy",
+        "capitals/europe",
+        "capitals/north_america",
+        "capitals/oceania",
+        "capitals/south_america",
+        "computer/file_extension",
+        "country/ISO_code",
+        "country/general",
+        "country/university",
+        "currencies/money",
+        "languages/blah",
+        "sports/stadium_location"
+      ],
+      "descriptions": {
+        "capitals/africa": "(1)",
+        "capitals/asia": "(1)",
+        "capitals/easy": "(1)",
+        "capitals/europe": "(1)",
+        "capitals/north_america": "(1)",
+        "capitals/oceania": "(1)",
+        "capitals/south_america": "(1)",
+        "computer/file_extension": "(1)",
+        "country/ISO_code": "(1)",
+        "country/general": "(1)",
+        "country/university": "(1)",
+        "currencies/money": "(1)",
+        "languages/blah": "(1)",
+        "sports/stadium_location": "(1)"
+      }
+    },
+    "L16H1": {
+      "layer": 16,
+      "head": 1,
+      "tags": [
+        "lexical_relations/opposite_gender"
+      ],
+      "descriptions": {
+        "lexical_relations/opposite_gender": "(1)"
+      }
+    },
+    "L16H15": {
+      "layer": 16,
+      "head": 15,
+      "tags": [
+        "animals/habitat"
+      ],
+      "descriptions": {
+        "animals/habitat": "(1)"
+      }
+    },
+    "L16H2": {
+      "layer": 16,
+      "head": 2,
+      "tags": [
+        "animals/taxonomy"
+      ],
+      "descriptions": {
+        "animals/taxonomy": "(1)"
+      }
+    },
+    "L16H6": {
+      "layer": 16,
+      "head": 6,
+      "tags": [
+        "law/US_amendments"
+      ],
+      "descriptions": {
+        "law/US_amendments": "(1)"
+      }
+    },
+    "L17H7": {
+      "layer": 17,
+      "head": 7,
+      "tags": [
+        "lexical_relations/find_subject"
+      ],
+      "descriptions": {
+        "lexical_relations/find_subject": "(1)"
+      }
+    },
+    "L18H2": {
+      "layer": 18,
+      "head": 2,
+      "tags": [
+        "feelings/positive"
+      ],
+      "descriptions": {
+        "feelings/positive": "(1)"
+      }
+    },
+    "L18H4": {
+      "layer": 18,
+      "head": 4,
+      "tags": [
+        "lexical_relations/active_passive"
+      ],
+      "descriptions": {
+        "lexical_relations/active_passive": "(1)"
+      }
+    },
+    "L18H8": {
+      "layer": 18,
+      "head": 8,
+      "tags": [
+        "lexical_relations/find_verb",
+        "sports/worldclass"
+      ],
+      "descriptions": {
+        "lexical_relations/find_verb": "(1)",
+        "sports/worldclass": "(1)"
+      }
+    },
+    "L22H2": {
+      "layer": 22,
+      "head": 2,
+      "tags": [
+        "law/versus",
+        "mathematics/mul"
+      ],
+      "descriptions": {
+        "law/versus": "(1)",
+        "mathematics/mul": "(1)"
+      }
+    },
+    "L7H7": {
+      "layer": 7,
+      "head": 7,
+      "tags": [
+        "mathematics/arithmetic+geometric_progression"
+      ],
+      "descriptions": {
+        "mathematics/arithmetic+geometric_progression": "(1)"
+      }
+    }
+  },
+  "tags": [
+    "Greek_mythology/gods",
+    "animals/habitat",
+    "animals/taxonomy",
+    "capitals/africa",
+    "capitals/asia",
+    "capitals/easy",
+    "capitals/europe",
+    "capitals/north_america",
+    "capitals/oceania",
+    "capitals/south_america",
+    "colors/color_fs_corr",
+    "computer/file_extension",
+    "computer/http_error_easy",
+    "computer/port_num_easy",
+    "country/ISO_code",
+    "country/general",
+    "country/university",
+    "currencies/money",
+    "famous_patching/indirect_object_identification",
+    "famous_patching/induction_head",
+    "feelings/negative",
+    "feelings/positive",
+    "foods/ingredient",
+    "foods/nutrient",
+    "job/workplace",
+    "languages/blah",
+    "law/US_amendments",
+    "law/versus",
+    "lexical_relations/active_passive",
+    "lexical_relations/find_subject",
+    "lexical_relations/find_verb",
+    "lexical_relations/opposite",
+    "lexical_relations/opposite_gender",
+    "lexical_relations/order2",
+    "lexical_relations/order3",
+    "lexical_relations/past",
+    "lexical_relations/plural",
+    "mathematics/add",
+    "mathematics/arithmetic+geometric_progression",
+    "mathematics/arithmetic_progression",
+    "mathematics/mul",
+    "medical/disease-organ",
+    "medical/specialty",
+    "medical/sympytom-disease",
+    "music/instruments_fs",
+    "pair/object_function",
+    "science/celestial_object",
+    "science/chemical_symbols",
+    "science/unit",
+    "sports/stadium_location",
+    "sports/worldclass",
+    "time/historical_year",
+    "translation/eng-chinese",
+    "translation/eng-french",
+    "translation/eng-german",
+    "translation/eng-italian",
+    "translation/eng-spanish"
+  ],
+  "createdAt": "2026-03-30T08:58:22.267698Z",
+  "updatedAt": "2026-03-30T08:58:22.267733Z"
+}
