@@ -1,0 +1,89 @@
+{"prompt": "What is the currency of Argentina? Answer:", "top1_token": " Argentine", "top1_id": 47637, "top1_prob": 0.105127}
+{"prompt": "What is the currency of Iraq? Answer:", "top1_token": " Iraqi", "top1_id": 24923, "top1_prob": 0.155734}
+{"prompt": "What is the currency of North Korea? Answer:", "top1_token": " North", "top1_id": 3729, "top1_prob": 0.072882}
+{"prompt": "What is the currency of Slovenia? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.112615}
+{"prompt": "What is the currency of Peru? Answer:", "top1_token": " Per", "top1_id": 3545, "top1_prob": 0.193798}
+{"prompt": "What is the currency of Norway? Answer:", "top1_token": " Norwegian", "top1_id": 25771, "top1_prob": 0.184466}
+{"prompt": "What is the currency of United States? Answer:", "top1_token": " USD", "top1_id": 28689, "top1_prob": 0.134274}
+{"prompt": "What is the currency of Portugal? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.16384}
+{"prompt": "What is the currency of New Zealand? Answer:", "top1_token": " NZ", "top1_id": 40986, "top1_prob": 0.490534}
+{"prompt": "What is the currency of Colombia? Answer:", "top1_token": " $", "top1_id": 370, "top1_prob": 0.114645}
+{"prompt": "What is the currency of Austria? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.166998}
+{"prompt": "What is the currency of Oman? Answer:", "top1_token": " O", "top1_id": 473, "top1_prob": 0.331363}
+{"prompt": "What is the currency of Qatar? Answer:", "top1_token": " Q", "top1_id": 1165, "top1_prob": 0.185269}
+{"prompt": "What is the currency of Paraguay? Answer:", "top1_token": " Par", "top1_id": 2956, "top1_prob": 0.198145}
+{"prompt": "What is the currency of France? Answer:", "top1_token": " Euro", "top1_id": 14029, "top1_prob": 0.129729}
+{"prompt": "What is the currency of Croatia? Answer:", "top1_token": " Croat", "top1_id": 30228, "top1_prob": 0.163216}
+{"prompt": "What is the currency of South Korea? Answer:", "top1_token": " South", "top1_id": 3684, "top1_prob": 0.101314}
+{"prompt": "What is the currency of Tanzania? Answer:", "top1_token": " T", "top1_id": 308, "top1_prob": 0.198552}
+{"prompt": "What is the currency of Myanmar? Answer:", "top1_token": " Myanmar", "top1_id": 43828, "top1_prob": 0.137455}
+{"prompt": "What is the currency of Cuba? Answer:", "top1_token": " Cuban", "top1_id": 33074, "top1_prob": 0.132888}
+{"prompt": "What is the currency of Chile? Answer:", "top1_token": " Chile", "top1_id": 22755, "top1_prob": 0.225592}
+{"prompt": "What is the currency of Lebanon? Answer:", "top1_token": " Lebanese", "top1_id": 46900, "top1_prob": 0.17142}
+{"prompt": "What is the currency of Australia? Answer:", "top1_token": " A", "top1_id": 329, "top1_prob": 0.168024}
+{"prompt": "What is the currency of Jamaica? Answer:", "top1_token": " J", "top1_id": 500, "top1_prob": 0.172095}
+{"prompt": "What is the currency of Hungary? Answer:", "top1_token": " HU", "top1_id": 32037, "top1_prob": 0.181701}
+{"prompt": "What is the currency of Jordan? Answer:", "top1_token": " Jordan", "top1_id": 13268, "top1_prob": 0.15056}
+{"prompt": "What is the currency of Singapore? Answer:", "top1_token": " Singapore", "top1_id": 16861, "top1_prob": 0.197652}
+{"prompt": "What is the currency of India? Answer:", "top1_token": " Rs", "top1_id": 22504, "top1_prob": 0.142954}
+{"prompt": "What is the currency of Morocco? Answer:", "top1_token": " Mor", "top1_id": 4922, "top1_prob": 0.22315}
+{"prompt": "What is the currency of Kazakhstan? Answer:", "top1_token": " Kazakh", "top1_id": 46936, "top1_prob": 0.115844}
+{"prompt": "What is the currency of Netherlands? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.175018}
+{"prompt": "What is the currency of Kuwait? Answer:", "top1_token": " Kuwait", "top1_id": 46614, "top1_prob": 0.458749}
+{"prompt": "What is the currency of Spain? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.193174}
+{"prompt": "What is the currency of Switzerland? Answer:", "top1_token": " CH", "top1_id": 5642, "top1_prob": 0.369731}
+{"prompt": "What is the currency of Belgium? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.151826}
+{"prompt": "What is the currency of China? Answer:", "top1_token": " Yuan", "top1_id": 50051, "top1_prob": 0.217049}
+{"prompt": "What is the currency of Tunisia? Answer:", "top1_token": " Tun", "top1_id": 27664, "top1_prob": 0.141351}
+{"prompt": "What is the currency of Nigeria? Answer:", "top1_token": " N", "top1_id": 427, "top1_prob": 0.503542}
+{"prompt": "What is the currency of Bolivia? Answer:", "top1_token": " Bol", "top1_id": 16001, "top1_prob": 0.58031}
+{"prompt": "What is the currency of Ethiopia? Answer:", "top1_token": " The", "top1_id": 380, "top1_prob": 0.087356}
+{"prompt": "What is the currency of Slovakia? Answer:", "top1_token": " Slov", "top1_id": 37603, "top1_prob": 0.137369}
+{"prompt": "What is the currency of Canada? Answer:", "top1_token": " CAD", "top1_id": 29263, "top1_prob": 0.157881}
+{"prompt": "What is the currency of Azerbaijan? Answer:", "top1_token": " Azerba", "top1_id": 46555, "top1_prob": 0.312311}
+{"prompt": "What is the currency of Uzbekistan? Answer:", "top1_token": " U", "top1_id": 530, "top1_prob": 0.2362}
+{"prompt": "What is the currency of Finland? Answer:", "top1_token": " Euro", "top1_id": 14029, "top1_prob": 0.081557}
+{"prompt": "What is the currency of Costa Rica? Answer:", "top1_token": " US", "top1_id": 1982, "top1_prob": 0.188999}
+{"prompt": "What is the currency of United Arab Emirates? Answer:", "top1_token": " UAE", "top1_id": 45162, "top1_prob": 0.177218}
+{"prompt": "What is the currency of Japan? Answer:", "top1_token": " Y", "top1_id": 714, "top1_prob": 0.14192}
+{"prompt": "What is the currency of Cyprus? Answer:", "top1_token": " Euro", "top1_id": 14029, "top1_prob": 0.138007}
+{"prompt": "What is the currency of Turkey? Answer:", "top1_token": " Turkish", "top1_id": 18416, "top1_prob": 0.174909}
+{"prompt": "What is the currency of Kenya? Answer:", "top1_token": " K", "top1_id": 611, "top1_prob": 0.234269}
+{"prompt": "What is the currency of Iceland? Answer:", "top1_token": " Iceland", "top1_id": 28651, "top1_prob": 0.210953}
+{"prompt": "What is the currency of Luxembourg? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.193255}
+{"prompt": "What is the currency of Pakistan? Answer:", "top1_token": " Pakistan", "top1_id": 13115, "top1_prob": 0.191749}
+{"prompt": "What is the currency of Russia? Answer:", "top1_token": " R", "top1_id": 416, "top1_prob": 0.135096}
+{"prompt": "What is the currency of Algeria? Answer:", "top1_token": " Alger", "top1_id": 36364, "top1_prob": 0.077388}
+{"prompt": "What is the currency of Bulgaria? Answer:", "top1_token": " Bulgar", "top1_id": 31519, "top1_prob": 0.16197}
+{"prompt": "What is the currency of Egypt? Answer:", "top1_token": " The", "top1_id": 380, "top1_prob": 0.118869}
+{"prompt": "What is the currency of Germany? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.199702}
+{"prompt": "What is the currency of Israel? Answer:", "top1_token": " The", "top1_id": 380, "top1_prob": 0.113338}
+{"prompt": "What is the currency of Sweden? Answer:", "top1_token": " Swedish", "top1_id": 19688, "top1_prob": 0.113198}
+{"prompt": "What is the currency of Greece? Answer:", "top1_token": " Euro", "top1_id": 14029, "top1_prob": 0.126058}
+{"prompt": "What is the currency of Mexico? Answer:", "top1_token": " Mexican", "top1_id": 16234, "top1_prob": 0.091348}
+{"prompt": "What is the currency of Ireland? Answer:", "top1_token": " €", "top1_id": 17275, "top1_prob": 0.372707}
+{"prompt": "What is the currency of Angola? Answer:", "top1_token": " Ang", "top1_id": 4965, "top1_prob": 0.138253}
+{"prompt": "What is the currency of Panama? Answer:", "top1_token": " $", "top1_id": 370, "top1_prob": 0.127601}
+{"prompt": "What is the currency of Mongolia? Answer:", "top1_token": " Mong", "top1_id": 31121, "top1_prob": 0.094586}
+{"prompt": "What is the currency of Malaysia? Answer:", "top1_token": " Malaysian", "top1_id": 48191, "top1_prob": 0.115376}
+{"prompt": "What is the currency of Italy? Answer:", "top1_token": " Euro", "top1_id": 14029, "top1_prob": 0.175104}
+{"prompt": "What is the currency of Uganda? Answer:", "top1_token": " Ug", "top1_id": 29636, "top1_prob": 0.101964}
+{"prompt": "What is the currency of Vietnam? Answer:", "top1_token": " V", "top1_id": 657, "top1_prob": 0.100537}
+{"prompt": "What is the currency of Nepal? Answer:", "top1_token": " Nep", "top1_id": 26121, "top1_prob": 0.376701}
+{"prompt": "What is the currency of Brazil? Answer:", "top1_token": " The", "top1_id": 380, "top1_prob": 0.12551}
+{"prompt": "What is the currency of Denmark? Answer:", "top1_token": " D", "top1_id": 399, "top1_prob": 0.156284}
+{"prompt": "What is the currency of South Africa? Answer:", "top1_token": " South", "top1_id": 3684, "top1_prob": 0.201449}
+{"prompt": "What is the currency of Bahamas? Answer:", "top1_token": " Bah", "top1_id": 21789, "top1_prob": 0.131657}
+{"prompt": "What is the currency of United Kingdom? Answer:", "top1_token": " £", "top1_id": 8157, "top1_prob": 0.244741}
+{"prompt": "What is the currency of Dominican Republic? Answer:", "top1_token": " Dominican", "top1_id": 46406, "top1_prob": 0.145124}
+{"prompt": "What is the currency of Uruguay? Answer:", "top1_token": " U", "top1_id": 530, "top1_prob": 0.26288}
+{"prompt": "What is the currency of Czech Republic? Answer:", "top1_token": " Czech", "top1_id": 21647, "top1_prob": 0.219121}
+{"prompt": "What is the currency of Guatemala? Answer:", "top1_token": " US", "top1_id": 1982, "top1_prob": 0.111313}
+{"prompt": "What is the currency of Georgia? Answer:", "top1_token": " Georg", "top1_id": 9309, "top1_prob": 0.135877}
+{"prompt": "What is the currency of Bangladesh? Answer:", "top1_token": " Dh", "top1_id": 37287, "top1_prob": 0.163466}
+{"prompt": "What is the currency of Cambodia? Answer:", "top1_token": " C", "top1_id": 330, "top1_prob": 0.102511}
+{"prompt": "What is the currency of Philippines? Answer:", "top1_token": " Philippine", "top1_id": 43783, "top1_prob": 0.171895}
+{"prompt": "What is the currency of Ghana? Answer:", "top1_token": " G", "top1_id": 443, "top1_prob": 0.466724}
+{"prompt": "What is the currency of Thailand? Answer:", "top1_token": " Thai", "top1_id": 28191, "top1_prob": 0.165208}
+{"prompt": "What is the currency of Saudi Arabia? Answer:", "top1_token": " Saudi", "top1_id": 16158, "top1_prob": 0.202254}
+{"prompt": "What is the currency of Ecuador? Answer:", "top1_token": " US", "top1_id": 1982, "top1_prob": 0.120055}

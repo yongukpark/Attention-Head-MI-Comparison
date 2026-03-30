@@ -1,0 +1,19 @@
+{"prompt": "The 1st Amendment protects freedom of", "top1_token": " speech", "top1_id": 6519, "top1_prob": 0.719505}
+{"prompt": "The 2nd Amendment protects the right to bear", "top1_token": " arms", "top1_id": 6174, "top1_prob": 0.937776}
+{"prompt": "The 13th Amendment abolished", "top1_token": " slavery", "top1_id": 21245, "top1_prob": 0.885581}
+{"prompt": "The 15th Amendment protects the right to", "top1_token": " vote", "top1_id": 6273, "top1_prob": 0.566462}
+{"prompt": "The 6th Amendment guarantees a speedy", "top1_token": " trial", "top1_id": 2332, "top1_prob": 0.609273}
+{"prompt": "The 26th Amendment lowered the voting", "top1_token": " age", "top1_id": 2363, "top1_prob": 0.966065}
+{"prompt": "The 8th Amendment prohibits cruel and unusual", "top1_token": " punishment", "top1_id": 14232, "top1_prob": 0.767258}
+{"prompt": "The 10th Amendment reserves powers to the", "top1_token": " states", "top1_id": 3054, "top1_prob": 0.271933}
+{"prompt": "The 14th Amendment's clause regarding due", "top1_token": " process", "top1_id": 1232, "top1_prob": 0.992293}
+{"prompt": "The 3rd Amendment prohibits the quartering of", "top1_token": " soldiers", "top1_id": 9647, "top1_prob": 0.420062}
+{"prompt": "The 24th Amendment prohibited poll", "top1_token": " taxes", "top1_id": 10474, "top1_prob": 0.724942}
+{"prompt": "The 5th Amendment's clause regarding private", "top1_token": " property", "top1_id": 2867, "top1_prob": 0.747453}
+{"prompt": "The 14th Amendment guarantees equal", "top1_token": " protection", "top1_id": 6055, "top1_prob": 0.755037}
+{"prompt": "The 6th Amendment's right to assistance of", "top1_token": " counsel", "top1_id": 5067, "top1_prob": 0.960909}
+{"prompt": "The 25th Amendment governs presidential", "top1_token": " succession", "top1_id": 27262, "top1_prob": 0.443024}
+{"prompt": "The 4th Amendment requires a warrant based on", "top1_token": " probable", "top1_id": 14051, "top1_prob": 0.876994}
+{"prompt": "The 5th Amendment prohibits double", "top1_token": " jeopardy", "top1_id": 39378, "top1_prob": 0.980709}
+{"prompt": "The 14th Amendment defines American", "top1_token": " citizenship", "top1_id": 24588, "top1_prob": 0.883226}
+{"prompt": "The 17th Amendment established direct election of", "top1_token": " senators", "top1_id": 31650, "top1_prob": 0.320002}

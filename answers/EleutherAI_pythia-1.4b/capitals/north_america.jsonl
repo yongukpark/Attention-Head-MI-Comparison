@@ -1,0 +1,16 @@
+{"prompt": "What is the capital of the United States? Answer:", "top1_token": " Washington", "top1_id": 5041, "top1_prob": 0.158232}
+{"prompt": "What is the capital of Canada? Answer:", "top1_token": " Ottawa", "top1_id": 29539, "top1_prob": 0.159001}
+{"prompt": "What is the capital of Mexico? Answer:", "top1_token": " Mexico", "top1_id": 8987, "top1_prob": 0.198261}
+{"prompt": "What is the capital of Cuba? Answer:", "top1_token": " Hav", "top1_id": 32977, "top1_prob": 0.436055}
+{"prompt": "What is the capital of Guatemala? Answer:", "top1_token": " Guatemala", "top1_id": 46560, "top1_prob": 0.239674}
+{"prompt": "What is the capital of Panama? Answer:", "top1_token": " Panama", "top1_id": 37783, "top1_prob": 0.585262}
+{"prompt": "What is the capital of Jamaica? Answer:", "top1_token": " Kingston", "top1_id": 47706, "top1_prob": 0.156316}
+{"prompt": "What is the capital of Costa Rica? Answer:", "top1_token": " San", "top1_id": 5003, "top1_prob": 0.62739}
+{"prompt": "What is the capital of Haiti? Answer:", "top1_token": " Port", "top1_id": 6162, "top1_prob": 0.381311}
+{"prompt": "What is the capital of Dominican Republic? Answer:", "top1_token": " S", "top1_id": 322, "top1_prob": 0.30788}
+{"prompt": "What is the capital of Honduras? Answer:", "top1_token": " T", "top1_id": 308, "top1_prob": 0.354534}
+{"prompt": "What is the capital of El Salvador? Answer:", "top1_token": " San", "top1_id": 5003, "top1_prob": 0.529747}
+{"prompt": "What is the capital of Nicaragua? Answer:", "top1_token": " Man", "top1_id": 3083, "top1_prob": 0.542672}
+{"prompt": "What is the capital of Belize? Answer:", "top1_token": " Bel", "top1_id": 6512, "top1_prob": 0.732102}
+{"prompt": "What is the capital of Barbados? Answer:", "top1_token": " Br", "top1_id": 2652, "top1_prob": 0.156007}
+{"prompt": "What is the capital of Trinidad and Tobago? Answer:", "top1_token": " Port", "top1_id": 6162, "top1_prob": 0.296095}

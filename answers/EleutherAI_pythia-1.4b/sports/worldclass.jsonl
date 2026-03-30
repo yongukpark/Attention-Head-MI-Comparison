@@ -1,0 +1,44 @@
+{"prompt": "Tottenham Hotspur is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.179999}
+{"prompt": "Los Angeles Lakers is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.10681}
+{"prompt": "New York Yankees is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.199486}
+{"prompt": "Lewis Hamilton is associated with which sports? Answer:", "top1_token": " Formula", "top1_id": 26658, "top1_prob": 0.059955}
+{"prompt": "Liverpool is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.096838}
+{"prompt": "Chicago Bulls is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.138962}
+{"prompt": "Boston Red Sox is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.264397}
+{"prompt": "Tiger Woods is associated with which sports? Answer:", "top1_token": " Golf", "top1_id": 32154, "top1_prob": 0.369789}
+{"prompt": "Arsenal is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.112281}
+{"prompt": "Golden State Warriors is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.172266}
+{"prompt": "Los Angeles Dodgers is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.156389}
+{"prompt": "Roger Federer is associated with which sports? Answer:", "top1_token": " Tenn", "top1_id": 12362, "top1_prob": 0.443807}
+{"prompt": "Chelsea is associated with which sports? Answer:", "top1_token": " Soccer", "top1_id": 35970, "top1_prob": 0.111808}
+{"prompt": "Boston Celtics is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.193679}
+{"prompt": "Chicago Cubs is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.120097}
+{"prompt": "Max Verstappen is associated with which sports? Answer:", "top1_token": " Formula", "top1_id": 26658, "top1_prob": 0.129772}
+{"prompt": "Manchester United is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.147502}
+{"prompt": "Miami Heat is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.130744}
+{"prompt": "San Francisco Giants is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.146113}
+{"prompt": "Rafael Nadal is associated with which sports? Answer:", "top1_token": " Tenn", "top1_id": 12362, "top1_prob": 0.406361}
+{"prompt": "Barcelona is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.06765}
+{"prompt": "Dallas Mavericks is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.12468}
+{"prompt": "Atlanta Braves is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.211171}
+{"prompt": "Novak Djokovic is associated with which sports? Answer:", "top1_token": " Tenn", "top1_id": 12362, "top1_prob": 0.356412}
+{"prompt": "Real Madrid is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.080329}
+{"prompt": "Milwaukee Bucks is associated with which sports? Answer:", "top1_token": " The", "top1_id": 380, "top1_prob": 0.101882}
+{"prompt": "New York Mets is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.174294}
+{"prompt": "Serena Williams is associated with which sports? Answer:", "top1_token": " Tenn", "top1_id": 12362, "top1_prob": 0.41655}
+{"prompt": "Bayern Munich is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.070661}
+{"prompt": "Phoenix Suns is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.097123}
+{"prompt": "Houston Astros is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.217021}
+{"prompt": "Rory McIlroy is associated with which sports? Answer:", "top1_token": " Golf", "top1_id": 32154, "top1_prob": 0.5168}
+{"prompt": "Borussia Dortmund is associated with which sports? Answer:", "top1_token": " Football", "top1_id": 15794, "top1_prob": 0.097218}
+{"prompt": "Philadelphia 76ers is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.170149}
+{"prompt": "Toronto Blue Jays is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.165319}
+{"prompt": "Son Heung-min is associated with which sports? Answer:", "top1_token": " He", "top1_id": 754, "top1_prob": 0.102771}
+{"prompt": "LeBron James is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.200557}
+{"prompt": "AC Milan is associated with which sports? Answer:", "top1_token": " Soccer", "top1_id": 35970, "top1_prob": 0.08168}
+{"prompt": "Denver Nuggets is associated with which sports? Answer:", "top1_token": " Basketball", "top1_id": 40751, "top1_prob": 0.101508}
+{"prompt": "San Diego Padres is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.149191}
+{"prompt": "Cristiano Ronaldo is associated with which sports? Answer:", "top1_token": " Soccer", "top1_id": 35970, "top1_prob": 0.143468}
+{"prompt": "Mike Tyson is associated with which sports? Answer:", "top1_token": " Box", "top1_id": 14423, "top1_prob": 0.068061}
+{"prompt": "New Zealand All Blacks is associated with which sports? Answer:", "top1_token": " Rugby", "top1_id": 37790, "top1_prob": 0.137593}
+{"prompt": "Babe Ruth is associated with which sports? Answer:", "top1_token": " Baseball", "top1_id": 27141, "top1_prob": 0.43457}

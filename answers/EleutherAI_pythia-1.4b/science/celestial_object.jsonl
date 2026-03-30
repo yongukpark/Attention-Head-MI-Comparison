@@ -1,0 +1,27 @@
+{"prompt": "Earth is a planet.\nSun is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.873144}
+{"prompt": "Earth is a planet.\nCygnus X-1 is a", "top1_token": " black", "top1_id": 2806, "top1_prob": 0.177897}
+{"prompt": "Earth is a planet.\nTriton is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.470933}
+{"prompt": "Earth is a planet.\nMars is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.661862}
+{"prompt": "Earth is a planet.\nMilky Way is a", "top1_token": " galaxy", "top1_id": 13649, "top1_prob": 0.48739}
+{"prompt": "Earth is a planet.\nSirius is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.622063}
+{"prompt": "Earth is a planet.\nHalley is a", "top1_token": " comet", "top1_id": 47470, "top1_prob": 0.14307}
+{"prompt": "Earth is a planet.\nAndromeda is a", "top1_token": " galaxy", "top1_id": 13649, "top1_prob": 0.44669}
+{"prompt": "Earth is a planet.\nVega is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.409604}
+{"prompt": "Earth is a planet.\nNeptune is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.634668}
+{"prompt": "Earth is a planet.\nBetelgeuse is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.588453}
+{"prompt": "Earth is a planet.\nEnceladus is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.517301}
+{"prompt": "Earth is a planet.\nSaturn is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.631959}
+{"prompt": "Earth is a planet.\nPhobos is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.40114}
+{"prompt": "Earth is a planet.\nMercury is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.851945}
+{"prompt": "Earth is a planet.\nRegulus is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.405654}
+{"prompt": "Earth is a planet.\nDeimos is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.393793}
+{"prompt": "Earth is a planet.\nVenus is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.549508}
+{"prompt": "Earth is a planet.\nGanymede is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.515092}
+{"prompt": "Earth is a planet.\nUranus is a", "top1_token": " planet", "top1_id": 8859, "top1_prob": 0.752619}
+{"prompt": "Earth is a planet.\nDeneb is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.458903}
+{"prompt": "Earth is a planet.\nCallisto is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.681431}
+{"prompt": "Earth is a planet.\nProcyon is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.351581}
+{"prompt": "Earth is a planet.\nIo is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.507548}
+{"prompt": "Earth is a planet.\nArcturus is a", "top1_token": " star", "top1_id": 4177, "top1_prob": 0.614735}
+{"prompt": "Earth is a planet.\nRhea is a", "top1_token": " moon", "top1_id": 12334, "top1_prob": 0.312268}
+{"prompt": "Earth is a planet.\nCassiopeia is a", "top1_token": " const", "top1_id": 1030, "top1_prob": 0.317827}

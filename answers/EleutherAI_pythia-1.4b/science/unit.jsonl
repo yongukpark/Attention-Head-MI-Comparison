@@ -1,0 +1,43 @@
+{"prompt": "The force is 50 newtons. Unit:", "top1_token": " new", "top1_id": 747, "top1_prob": 0.087657}
+{"prompt": "The distance is 150 kilometers. Unit:", "top1_token": " km", "top1_id": 10771, "top1_prob": 0.215253}
+{"prompt": "The energy released is 100 joules. Unit:", "top1_token": " J", "top1_id": 500, "top1_prob": 0.117653}
+{"prompt": "The memory capacity is 16 gigabytes. Unit:", "top1_token": " GB", "top1_id": 20514, "top1_prob": 0.163789}
+{"prompt": "The pressure is 1013 pascals. Unit:", "top1_token": " p", "top1_id": 268, "top1_prob": 0.197038}
+{"prompt": "The velocity is 60 miles per hour. Unit:", "top1_token": " mph", "top1_id": 36772, "top1_prob": 0.207189}
+{"prompt": "The capacitance is 10 microfarads. Unit:", "top1_token": " micro", "top1_id": 2494, "top1_prob": 0.231907}
+{"prompt": "The wavelength is 500 nanometers. Unit:", "top1_token": " nan", "top1_id": 6399, "top1_prob": 0.346922}
+{"prompt": "The resistance is 100 ohms. Unit:", "top1_token": " Oh", "top1_id": 5531, "top1_prob": 0.114213}
+{"prompt": "The volume is 500 milliliters. Unit:", "top1_token": " ml", "top1_id": 13361, "top1_prob": 0.121087}
+{"prompt": "The radioactivity is 50 becquerels. Unit:", "top1_token": " B", "top1_id": 378, "top1_prob": 0.068323}
+{"prompt": "The duration is 120 seconds. Unit:", "top1_token": " seconds", "top1_id": 7253, "top1_prob": 0.090709}
+{"prompt": "The illuminance is 500 lux. Unit:", "top1_token": " lux", "top1_id": 14093, "top1_prob": 0.196428}
+{"prompt": "The file size is 500 megabytes. Unit:", "top1_token": " bytes", "top1_id": 11061, "top1_prob": 0.13428}
+{"prompt": "The dynamic viscosity is 1.5 centipoise. Unit:", "top1_token": " cent", "top1_id": 1399, "top1_prob": 0.24721}
+{"prompt": "The heading is 270 degrees. Unit:", "top1_token": " degrees", "top1_id": 7759, "top1_prob": 0.207253}
+{"prompt": "The density is 1000 kilograms per cubic meter. Unit:", "top1_token": " kg", "top1_id": 15841, "top1_prob": 0.12372}
+{"prompt": "The transfer rate is 10 gigabits. Unit:", "top1_token": " Gig", "top1_id": 44998, "top1_prob": 0.067361}
+{"prompt": "The spring constant is 50 newtons per meter. Unit:", "top1_token": " N", "top1_id": 427, "top1_prob": 0.074647}
+{"prompt": "The land size is 5 hectares. Unit:", "top1_token": " hect", "top1_id": 46173, "top1_prob": 0.095027}
+{"prompt": "The magnetic flux density is 2 teslas. Unit:", "top1_token": " t", "top1_id": 246, "top1_prob": 0.46027}
+{"prompt": "The information entropy is 10 bits. Unit:", "top1_token": " bits", "top1_id": 9886, "top1_prob": 0.142546}
+{"prompt": "The depth is 100 fathoms. Unit:", "top1_token": " f", "top1_id": 269, "top1_prob": 0.164031}
+{"prompt": "The heat capacity is 4.18 joules per gram. Unit:", "top1_token": " J", "top1_id": 500, "top1_prob": 0.396009}
+{"prompt": "The width is 50 centimeters. Unit:", "top1_token": " cm", "top1_id": 7892, "top1_prob": 0.120336}
+{"prompt": "The dose is 250 milligrams. Unit:", "top1_token": " mg", "top1_id": 5770, "top1_prob": 0.067546}
+{"prompt": "The thickness is 2 millimeters. Unit:", "top1_token": " mm", "top1_id": 5823, "top1_prob": 0.21076}
+{"prompt": "The latency is 20 milliseconds. Unit:", "top1_token": " ms", "top1_id": 13818, "top1_prob": 0.160737}
+{"prompt": "The radius is 5 meters. Unit:", "top1_token": " meters", "top1_id": 17249, "top1_prob": 0.219759}
+{"prompt": "The entropy is 10 joules per kelvin. Unit:", "top1_token": " J", "top1_id": 500, "top1_prob": 0.415194}
+{"prompt": "The displacement is 2.0 liters. Unit:", "top1_token": " lit", "top1_id": 6195, "top1_prob": 0.353034}
+{"prompt": "The speed is 100 kilometers per hour. Unit:", "top1_token": " km", "top1_id": 10771, "top1_prob": 0.216622}
+{"prompt": "The area is 100 square meters. Unit:", "top1_token": " square", "top1_id": 6278, "top1_prob": 0.049374}
+{"prompt": "The bandwidth is 100 megabits per second. Unit:", "top1_token": " meg", "top1_id": 19488, "top1_prob": 0.087183}
+{"prompt": "The core temperature is 1500 kelvins. Unit:", "top1_token": " k", "top1_id": 465, "top1_prob": 0.135419}
+{"prompt": "The period is 10 milliseconds. Unit:", "top1_token": " ms", "top1_id": 13818, "top1_prob": 0.154755}
+{"prompt": "The thermal conductivity is 50 watts per meter-kelvin. Unit:", "top1_token": " W", "top1_id": 411, "top1_prob": 0.332066}
+{"prompt": "The volume is 50 cubic centimeters. Unit:", "top1_token": " ml", "top1_id": 13361, "top1_prob": 0.062778}
+{"prompt": "The molar mass is 18 grams per mole. Unit:", "top1_token": " grams", "top1_id": 23891, "top1_prob": 0.124217}
+{"prompt": "The time constant is 5 microseconds. Unit:", "top1_token": " micro", "top1_id": 2494, "top1_prob": 0.130964}
+{"prompt": "The mass is 500 grams. Unit:", "top1_token": " gram", "top1_id": 29975, "top1_prob": 0.085131}
+{"prompt": "The vertical speed is 500 feet per minute. Unit:", "top1_token": " feet", "top1_id": 4669, "top1_prob": 0.067862}
+{"prompt": "The absorbed dose is 5 grays. Unit:", "top1_token": " Gray", "top1_id": 18707, "top1_prob": 0.110469}

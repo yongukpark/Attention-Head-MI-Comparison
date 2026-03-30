@@ -1,0 +1,175 @@
+{"prompt": "A nail clipper tool is used to '", "top1_token": "clip", "top1_id": 11536, "top1_prob": 0.153822}
+{"prompt": "A screwdriver driver is used to '", "top1_token": "drive", "top1_id": 27190, "top1_prob": 0.061958}
+{"prompt": "A printer is used to '", "top1_token": "print", "top1_id": 3845, "top1_prob": 0.569592}
+{"prompt": "A belt is used to '", "top1_token": "lock", "top1_id": 4348, "top1_prob": 0.03085}
+{"prompt": "A comb is used to '", "top1_token": "comb", "top1_id": 17890, "top1_prob": 0.045865}
+{"prompt": "A kettle is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.223336}
+{"prompt": "A router is used to '", "top1_token": "route", "top1_id": 25966, "top1_prob": 0.08677}
+{"prompt": "A oven is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.469033}
+{"prompt": "A radio is used to '", "top1_token": "listen", "top1_id": 42050, "top1_prob": 0.061769}
+{"prompt": "A phone is used to '", "top1_token": "talk", "top1_id": 26209, "top1_prob": 0.039592}
+{"prompt": "A bed is used to '", "top1_token": "sleep", "top1_id": 28850, "top1_prob": 0.067389}
+{"prompt": "A shovel is used to '", "top1_token": "dig", "top1_id": 11174, "top1_prob": 0.141305}
+{"prompt": "A scale tool is used to '", "top1_token": "scale", "top1_id": 7527, "top1_prob": 0.051792}
+{"prompt": "A ladder is used to '", "top1_token": "walk", "top1_id": 13678, "top1_prob": 0.023945}
+{"prompt": "A drill is used to '", "top1_token": "dr", "top1_id": 5267, "top1_prob": 0.091347}
+{"prompt": "A microphone is used to '", "top1_token": "listen", "top1_id": 42050, "top1_prob": 0.308157}
+{"prompt": "A glue is used to '", "top1_token": "gl", "top1_id": 3129, "top1_prob": 0.15183}
+{"prompt": "A satellite is used to '", "top1_token": "ping", "top1_id": 14650, "top1_prob": 0.042479}
+{"prompt": "A toothbrush is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.244655}
+{"prompt": "A pressure cooker is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.69755}
+{"prompt": "A bowl is used to '", "top1_token": "catch", "top1_id": 28293, "top1_prob": 0.038938}
+{"prompt": "A folder is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.048032}
+{"prompt": "A sponge is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.071132}
+{"prompt": "A key is used to '", "top1_token": "lock", "top1_id": 4348, "top1_prob": 0.140326}
+{"prompt": "A charger is used to '", "top1_token": "charge", "top1_id": 7778, "top1_prob": 0.134902}
+{"prompt": "A wrench is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.069553}
+{"prompt": "A blender is used to '", "top1_token": "bl", "top1_id": 1559, "top1_prob": 0.10703}
+{"prompt": "A antenna dish is used to '", "top1_token": "focus", "top1_id": 16651, "top1_prob": 0.062044}
+{"prompt": "A umbrella is used to '", "top1_token": "protect", "top1_id": 33724, "top1_prob": 0.079474}
+{"prompt": "A bucket tool is used to '", "top1_token": "fill", "top1_id": 9337, "top1_prob": 0.027689}
+{"prompt": "A hose is used to '", "top1_token": "p", "top1_id": 81, "top1_prob": 0.026152}
+{"prompt": "A soap is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.171704}
+{"prompt": "A razor is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.15138}
+{"prompt": "A towel cloth is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.125669}
+{"prompt": "A shoe is used to '", "top1_token": "hold", "top1_id": 4949, "top1_prob": 0.018587}
+{"prompt": "A shampoo bottle is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.073136}
+{"prompt": "A drill bit is used to '", "top1_token": "dr", "top1_id": 5267, "top1_prob": 0.139124}
+{"prompt": "A garden rake is used to '", "top1_token": "rake", "top1_id": 47081, "top1_prob": 0.34078}
+{"prompt": "A envelope is used to '", "top1_token": "enc", "top1_id": 2083, "top1_prob": 0.025596}
+{"prompt": "A freezer is used to '", "top1_token": "free", "top1_id": 4924, "top1_prob": 0.38794}
+{"prompt": "A glove is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.030021}
+{"prompt": "A watering hose is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.250613}
+{"prompt": "A modem is used to '", "top1_token": "talk", "top1_id": 26209, "top1_prob": 0.078316}
+{"prompt": "A eraser is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.10717}
+{"prompt": "A frying pan is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.223415}
+{"prompt": "A generator is used to '", "top1_token": "generate", "top1_id": 16450, "top1_prob": 0.034504}
+{"prompt": "A microwave is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.080919}
+{"prompt": "A comb is used to '", "top1_token": "comb", "top1_id": 17890, "top1_prob": 0.045865}
+{"prompt": "A towel is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.084294}
+{"prompt": "A fork is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.035243}
+{"prompt": "A mop is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.41459}
+{"prompt": "A modem device is used to '", "top1_token": "talk", "top1_id": 26209, "top1_prob": 0.089184}
+{"prompt": "A rake tool is used to '", "top1_token": "rake", "top1_id": 47081, "top1_prob": 0.11612}
+{"prompt": "A pliers is used to '", "top1_token": "lock", "top1_id": 4348, "top1_prob": 0.051959}
+{"prompt": "A watering can tool is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.434697}
+{"prompt": "A dryer is used to '", "top1_token": "dry", "top1_id": 36765, "top1_prob": 0.283624}
+{"prompt": "A nail clipper is used to '", "top1_token": "clip", "top1_id": 11536, "top1_prob": 0.192485}
+{"prompt": "A battery is used to '", "top1_token": "charge", "top1_id": 7778, "top1_prob": 0.090745}
+{"prompt": "A towel is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.084294}
+{"prompt": "A heater is used to '", "top1_token": "heat", "top1_id": 22348, "top1_prob": 0.150891}
+{"prompt": "A desk is used to '", "top1_token": "hold", "top1_id": 4949, "top1_prob": 0.020517}
+{"prompt": "A drone camera is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.20575}
+{"prompt": "A blanket is used to '", "top1_token": "cover", "top1_id": 16484, "top1_prob": 0.065336}
+{"prompt": "A mirror is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.109537}
+{"prompt": "A compass is used to '", "top1_token": "read", "top1_id": 1088, "top1_prob": 0.041134}
+{"prompt": "A watering can is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.380633}
+{"prompt": "A mouse device is used to '", "top1_token": "read", "top1_id": 1088, "top1_prob": 0.021792}
+{"prompt": "A book tool is used to '", "top1_token": "search", "top1_id": 8716, "top1_prob": 0.022334}
+{"prompt": "A file is used to '", "top1_token": "\n", "top1_id": 187, "top1_prob": 0.062429}
+{"prompt": "A television is used to '", "top1_token": "watch", "top1_id": 13060, "top1_prob": 0.018353}
+{"prompt": "A mirror is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.109537}
+{"prompt": "A candle is used to '", "top1_token": "light", "top1_id": 3243, "top1_prob": 0.200331}
+{"prompt": "A laptop computer is used to '", "top1_token": "play", "top1_id": 1993, "top1_prob": 0.023928}
+{"prompt": "A broom is used to '", "top1_token": "swe", "top1_id": 46970, "top1_prob": 0.291306}
+{"prompt": "A backpack is used to '", "top1_token": "hold", "top1_id": 4949, "top1_prob": 0.040804}
+{"prompt": "A watering sprayer is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.391853}
+{"prompt": "A washing machine is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.211554}
+{"prompt": "A router modem is used to '", "top1_token": "bridge", "top1_id": 8298, "top1_prob": 0.044494}
+{"prompt": "A microscope is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.123267}
+{"prompt": "A mouse is used to '", "top1_token": "test", "top1_id": 2566, "top1_prob": 0.027482}
+{"prompt": "A wrench spanner is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.066479}
+{"prompt": "A remote is used to '", "top1_token": "ping", "top1_id": 14650, "top1_prob": 0.041785}
+{"prompt": "A rice cooker is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.795022}
+{"prompt": "A razor is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.15138}
+{"prompt": "A keyboard is used to '", "top1_token": "type", "top1_id": 881, "top1_prob": 0.050058}
+{"prompt": "A lighter is used to '", "top1_token": "light", "top1_id": 3243, "top1_prob": 0.079326}
+{"prompt": "A paperclip is used to '", "top1_token": "clip", "top1_id": 11536, "top1_prob": 0.095221}
+{"prompt": "A toothbrush tool is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.123025}
+{"prompt": "A stapler tool is used to '", "top1_token": "stit", "top1_id": 2376, "top1_prob": 0.05994}
+{"prompt": "A light bulb is used to '", "top1_token": "light", "top1_id": 3243, "top1_prob": 0.071}
+{"prompt": "A clock is used to '", "top1_token": "count", "top1_id": 5560, "top1_prob": 0.047021}
+{"prompt": "A fan is used to '", "top1_token": "blow", "top1_id": 37777, "top1_prob": 0.027963}
+{"prompt": "A scarf is used to '", "top1_token": "cover", "top1_id": 16484, "top1_prob": 0.064922}
+{"prompt": "A calculator is used to '", "top1_token": "cal", "top1_id": 1179, "top1_prob": 0.12109}
+{"prompt": "A pliers tool is used to '", "top1_token": "sn", "top1_id": 11489, "top1_prob": 0.051971}
+{"prompt": "A pen is used to '", "top1_token": "draw", "top1_id": 6553, "top1_prob": 0.091153}
+{"prompt": "A suitcase is used to '", "top1_token": "car", "top1_id": 5546, "top1_prob": 0.045925}
+{"prompt": "A ruler is used to '", "top1_token": "make", "top1_id": 11145, "top1_prob": 0.017948}
+{"prompt": "A pencil is used to '", "top1_token": "draw", "top1_id": 6553, "top1_prob": 0.111641}
+{"prompt": "A toaster is used to '", "top1_token": "burn", "top1_id": 14814, "top1_prob": 0.031821}
+{"prompt": "A cutting board is used to '", "top1_token": "slice", "top1_id": 27494, "top1_prob": 0.189211}
+{"prompt": "A ladder is used to '", "top1_token": "walk", "top1_id": 13678, "top1_prob": 0.024065}
+{"prompt": "A comb tool is used to '", "top1_token": "comb", "top1_id": 17890, "top1_prob": 0.093055}
+{"prompt": "A scale is used to '", "top1_token": "scale", "top1_id": 7527, "top1_prob": 0.063162}
+{"prompt": "A hammer tool is used to '", "top1_token": "hammer", "top1_id": 45423, "top1_prob": 0.058407}
+{"prompt": "A brush is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.155568}
+{"prompt": "A table is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.052861}
+{"prompt": "A tape measure is used to '", "top1_token": "measure", "top1_id": 30238, "top1_prob": 0.12715}
+{"prompt": "A bucket is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.047235}
+{"prompt": "A chair is used to '", "top1_token": "support", "top1_id": 13821, "top1_prob": 0.026444}
+{"prompt": "A saw tool is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.177275}
+{"prompt": "A notebook tool is used to '", "top1_token": "draw", "top1_id": 6553, "top1_prob": 0.020802}
+{"prompt": "A shovel tool is used to '", "top1_token": "dig", "top1_id": 11174, "top1_prob": 0.21291}
+{"prompt": "A screwdriver tool is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.037969}
+{"prompt": "A pot is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.167618}
+{"prompt": "A refrigerator is used to '", "top1_token": "cool", "top1_id": 26175, "top1_prob": 0.266965}
+{"prompt": "A coat is used to '", "top1_token": "protect", "top1_id": 33724, "top1_prob": 0.110169}
+{"prompt": "A shovel is used to '", "top1_token": "dig", "top1_id": 11174, "top1_prob": 0.143495}
+{"prompt": "A map is used to '", "top1_token": "map", "top1_id": 4251, "top1_prob": 0.023591}
+{"prompt": "A plate is used to '", "top1_token": "capture", "top1_id": 41628, "top1_prob": 0.011142}
+{"prompt": "A air conditioner is used to '", "top1_token": "cool", "top1_id": 26175, "top1_prob": 0.334912}
+{"prompt": "A vacuum cleaner is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.284003}
+{"prompt": "A compass is used to '", "top1_token": "read", "top1_id": 1088, "top1_prob": 0.041442}
+{"prompt": "A lotion is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.050363}
+{"prompt": "A book is used to '", "top1_token": "expl", "top1_id": 15083, "top1_prob": 0.013104}
+{"prompt": "A hose tool is used to '", "top1_token": "p", "top1_id": 81, "top1_prob": 0.040888}
+{"prompt": "A hammer drill is used to '", "top1_token": "dr", "top1_id": 5267, "top1_prob": 0.107071}
+{"prompt": "A shampoo is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.12904}
+{"prompt": "A ruler tool is used to '", "top1_token": "zoom", "top1_id": 44164, "top1_prob": 0.041437}
+{"prompt": "A calendar is used to '", "top1_token": "schedule", "top1_id": 44128, "top1_prob": 0.036446}
+{"prompt": "A purse is used to '", "top1_token": "hold", "top1_id": 4949, "top1_prob": 0.035878}
+{"prompt": "A marker is used to '", "top1_token": "mark", "top1_id": 4698, "top1_prob": 0.192974}
+{"prompt": "A knife is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.123031}
+{"prompt": "A brush is used to '", "top1_token": "clean", "top1_id": 16437, "top1_prob": 0.1591}
+{"prompt": "A watering can tool is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.434697}
+{"prompt": "A drone is used to '", "top1_token": "fly", "top1_id": 16247, "top1_prob": 0.096401}
+{"prompt": "A spoon is used to '", "top1_token": "p", "top1_id": 81, "top1_prob": 0.036628}
+{"prompt": "A notebook is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.018811}
+{"prompt": "A speaker is used to '", "top1_token": "spe", "top1_id": 9293, "top1_prob": 0.079244}
+{"prompt": "A bucket container is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.04792}
+{"prompt": "A coffee maker is used to '", "top1_token": "brew", "top1_id": 18321, "top1_prob": 0.255132}
+{"prompt": "A wrench tool is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.069161}
+{"prompt": "A rake is used to '", "top1_token": "rake", "top1_id": 47081, "top1_prob": 0.167144}
+{"prompt": "A antenna is used to '", "top1_token": "listen", "top1_id": 42050, "top1_prob": 0.033461}
+{"prompt": "A scanner is used to '", "top1_token": "scan", "top1_id": 22798, "top1_prob": 0.111012}
+{"prompt": "A watering bucket is used to '", "top1_token": "water", "top1_id": 7779, "top1_prob": 0.136783}
+{"prompt": "A sock is used to '", "top1_token": "hold", "top1_id": 4949, "top1_prob": 0.052366}
+{"prompt": "A rake garden tool is used to '", "top1_token": "rake", "top1_id": 47081, "top1_prob": 0.332703}
+{"prompt": "A saw is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.077134}
+{"prompt": "A pillow is used to '", "top1_token": "rest", "top1_id": 1120, "top1_prob": 0.02846}
+{"prompt": "A stapler is used to '", "top1_token": "stit", "top1_id": 2376, "top1_prob": 0.064444}
+{"prompt": "A hair dryer is used to '", "top1_token": "blow", "top1_id": 37777, "top1_prob": 0.074886}
+{"prompt": "A hat is used to '", "top1_token": "protect", "top1_id": 33724, "top1_prob": 0.051884}
+{"prompt": "A rake is used to '", "top1_token": "rake", "top1_id": 47081, "top1_prob": 0.167144}
+{"prompt": "A grill is used to '", "top1_token": "cook", "top1_id": 29519, "top1_prob": 0.278755}
+{"prompt": "A scissors is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.290227}
+{"prompt": "A flashlight is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.129582}
+{"prompt": "A power bank is used to '", "top1_token": "charge", "top1_id": 7778, "top1_prob": 0.161359}
+{"prompt": "A router device is used to '", "top1_token": "route", "top1_id": 25966, "top1_prob": 0.07136}
+{"prompt": "A watch is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.028835}
+{"prompt": "A pliers cutter is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.355591}
+{"prompt": "A screwdriver is used to '", "top1_token": "break", "top1_id": 7054, "top1_prob": 0.036046}
+{"prompt": "A camera is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.13606}
+{"prompt": "A shovel spade is used to '", "top1_token": "dig", "top1_id": 11174, "top1_prob": 0.18509}
+{"prompt": "A keyboard device is used to '", "top1_token": "key", "top1_id": 2364, "top1_prob": 0.05145}
+{"prompt": "A lotion bottle is used to '", "top1_token": "p", "top1_id": 81, "top1_prob": 0.041417}
+{"prompt": "A soap bar is used to '", "top1_token": "wash", "top1_id": 43351, "top1_prob": 0.101378}
+{"prompt": "A thermometer is used to '", "top1_token": "read", "top1_id": 1088, "top1_prob": 0.08514}
+{"prompt": "A wallet is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.065137}
+{"prompt": "A telescope is used to '", "top1_token": "see", "top1_id": 2887, "top1_prob": 0.099705}
+{"prompt": "A folder file is used to '", "top1_token": "store", "top1_id": 11869, "top1_prob": 0.0424}
+{"prompt": "A calculator tool is used to '", "top1_token": "cal", "top1_id": 1179, "top1_prob": 0.132129}
+{"prompt": "A hose pipe is used to '", "top1_token": "p", "top1_id": 81, "top1_prob": 0.044644}
+{"prompt": "A chisel is used to '", "top1_token": "cut", "top1_id": 7317, "top1_prob": 0.082626}
+{"prompt": "A laptop is used to '", "top1_token": "test", "top1_id": 2566, "top1_prob": 0.020641}

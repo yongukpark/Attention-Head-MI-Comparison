@@ -1,0 +1,105 @@
+{"prompt": "The official language of South Korea is", "top1_token": " Korean", "top1_id": 13247, "top1_prob": 0.669941}
+{"prompt": "The official language of Mexico is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.915289}
+{"prompt": "The official language of Egypt is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.767221}
+{"prompt": "The official language of France is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.739361}
+{"prompt": "The official language of Japan is", "top1_token": " Japanese", "top1_id": 6692, "top1_prob": 0.717132}
+{"prompt": "The official language of Guinea-Bissau is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.641522}
+{"prompt": "The official language of Argentina is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.89464}
+{"prompt": "The official language of Saudi Arabia is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.75962}
+{"prompt": "The official language of Germany is", "top1_token": " German", "top1_id": 5685, "top1_prob": 0.63787}
+{"prompt": "The official language of Chile is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.890784}
+{"prompt": "The official language of Turkey is", "top1_token": " Turkish", "top1_id": 18416, "top1_prob": 0.786571}
+{"prompt": "The official language of Colombia is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.933851}
+{"prompt": "The official language of United Arab Emirates is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.461921}
+{"prompt": "The official language of China is", "top1_token": " Mand", "top1_id": 18150, "top1_prob": 0.328906}
+{"prompt": "The official language of Peru is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.914844}
+{"prompt": "The official language of Qatar is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.475267}
+{"prompt": "The official language of Italy is", "top1_token": " Italian", "top1_id": 9890, "top1_prob": 0.825319}
+{"prompt": "The official language of Venezuela is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.84828}
+{"prompt": "The official language of Kuwait is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.666877}
+{"prompt": "The official language of Portugal is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.825644}
+{"prompt": "The official language of Ecuador is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.882918}
+{"prompt": "The official language of Bahrain is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.563895}
+{"prompt": "The official language of Brazil is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.779948}
+{"prompt": "The official language of Bolivia is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.935157}
+{"prompt": "The official language of Libya is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.598992}
+{"prompt": "The official language of Canada is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.733263}
+{"prompt": "The official language of Paraguay is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.828335}
+{"prompt": "The official language of Morocco is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.420751}
+{"prompt": "The official language of United Kingdom is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.917046}
+{"prompt": "The official language of Uruguay is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.966841}
+{"prompt": "The official language of Tunisia is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.673218}
+{"prompt": "The official language of Australia is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.891969}
+{"prompt": "The official language of Cuba is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.879008}
+{"prompt": "The official language of Algeria is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.503987}
+{"prompt": "The official language of New Zealand is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.486996}
+{"prompt": "The official language of Dominican Republic is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.710584}
+{"prompt": "The official language of Yemen is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.748314}
+{"prompt": "The official language of Ireland is", "top1_token": " Irish", "top1_id": 11596, "top1_prob": 0.703769}
+{"prompt": "The official language of Guatemala is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.828751}
+{"prompt": "The official language of Iraq is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.679967}
+{"prompt": "The official language of Singapore is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.69237}
+{"prompt": "The official language of Honduras is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.780483}
+{"prompt": "The official language of Syria is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.705671}
+{"prompt": "The official language of Sweden is", "top1_token": " Swedish", "top1_id": 19688, "top1_prob": 0.899506}
+{"prompt": "The official language of El Salvador is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.788817}
+{"prompt": "The official language of Jordan is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.828591}
+{"prompt": "The official language of Norway is", "top1_token": " Norwegian", "top1_id": 25771, "top1_prob": 0.668047}
+{"prompt": "The official language of Nicaragua is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.842898}
+{"prompt": "The official language of Lebanon is", "top1_token": " Arabic", "top1_id": 26503, "top1_prob": 0.748028}
+{"prompt": "The official language of Denmark is", "top1_token": " Danish", "top1_id": 26304, "top1_prob": 0.940146}
+{"prompt": "The official language of Costa Rica is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.86155}
+{"prompt": "The official language of Israel is", "top1_token": " Hebrew", "top1_id": 25260, "top1_prob": 0.915175}
+{"prompt": "The official language of Panama is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.791282}
+{"prompt": "The official language of Iran is", "top1_token": " Persian", "top1_id": 31534, "top1_prob": 0.610958}
+{"prompt": "The official language of Finland is", "top1_token": " Finnish", "top1_id": 36090, "top1_prob": 0.632789}
+{"prompt": "The official language of Netherlands is", "top1_token": " Dutch", "top1_id": 13986, "top1_prob": 0.912378}
+{"prompt": "The official language of Thailand is", "top1_token": " Thai", "top1_id": 28191, "top1_prob": 0.450736}
+{"prompt": "The official language of Vietnam is", "top1_token": " Vietnamese", "top1_id": 30907, "top1_prob": 0.440459}
+{"prompt": "The official language of Indonesia is", "top1_token": " Indonesian", "top1_id": 43113, "top1_prob": 0.461358}
+{"prompt": "The official language of Mongolia is", "top1_token": " Mong", "top1_id": 31121, "top1_prob": 0.708709}
+{"prompt": "The official language of Hungary is", "top1_token": " Hungarian", "top1_id": 32863, "top1_prob": 0.711975}
+{"prompt": "The official language of Romania is", "top1_token": " Romanian", "top1_id": 45575, "top1_prob": 0.721149}
+{"prompt": "The official language of Cape Verde is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.333115}
+{"prompt": "The official language of Bulgaria is", "top1_token": " Bulgar", "top1_id": 31519, "top1_prob": 0.911741}
+{"prompt": "The official language of Czech Republic is", "top1_token": " Czech", "top1_id": 21647, "top1_prob": 0.837807}
+{"prompt": "The official language of Slovakia is", "top1_token": " Slov", "top1_id": 37603, "top1_prob": 0.955001}
+{"prompt": "The official language of Croatia is", "top1_token": " Croat", "top1_id": 30228, "top1_prob": 0.747271}
+{"prompt": "The official language of Serbia is", "top1_token": " Serbian", "top1_id": 48069, "top1_prob": 0.722654}
+{"prompt": "The official language of Albania is", "top1_token": " Alban", "top1_id": 31208, "top1_prob": 0.741247}
+{"prompt": "The official language of Austria is", "top1_token": " German", "top1_id": 5685, "top1_prob": 0.755137}
+{"prompt": "The official language of Bangladesh is", "top1_token": " Beng", "top1_id": 21524, "top1_prob": 0.387062}
+{"prompt": "The official language of Kazakhstan is", "top1_token": " Kazakh", "top1_id": 46936, "top1_prob": 0.746795}
+{"prompt": "The official language of Armenia is", "top1_token": " Armenian", "top1_id": 46657, "top1_prob": 0.709643}
+{"prompt": "The official language of Georgia is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.786124}
+{"prompt": "The official language of Estonia is", "top1_token": " Eston", "top1_id": 39863, "top1_prob": 0.818574}
+{"prompt": "The official language of Angola is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.758622}
+{"prompt": "The official language of Lithuania is", "top1_token": " Lithuan", "top1_id": 40115, "top1_prob": 0.839189}
+{"prompt": "The official language of Cyprus is", "top1_token": " Greek", "top1_id": 11308, "top1_prob": 0.55744}
+{"prompt": "The official language of Slovenia is", "top1_token": " Slov", "top1_id": 37603, "top1_prob": 0.518245}
+{"prompt": "The official language of Mozambique is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.496964}
+{"prompt": "The official language of Afghanistan is", "top1_token": " Pas", "top1_id": 17231, "top1_prob": 0.414883}
+{"prompt": "The official language of Sao Tome and Principe is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.579924}
+{"prompt": "The official language of Tajikistan is", "top1_token": " Taj", "top1_id": 47858, "top1_prob": 0.671389}
+{"prompt": "The official language of Turkmenistan is", "top1_token": " Turk", "top1_id": 14901, "top1_prob": 0.746235}
+{"prompt": "The official language of Brunei is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.333232}
+{"prompt": "The official language of Switzerland is", "top1_token": " German", "top1_id": 5685, "top1_prob": 0.675115}
+{"prompt": "The official language of Timor-Leste is", "top1_token": " Portuguese", "top1_id": 26467, "top1_prob": 0.338359}
+{"prompt": "The official language of Equatorial Guinea is", "top1_token": " Spanish", "top1_id": 9883, "top1_prob": 0.350919}
+{"prompt": "The official language of Benin is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.351706}
+{"prompt": "The official language of United States is", "top1_token": " English", "top1_id": 4383, "top1_prob": 0.872254}
+{"prompt": "The official language of Burkina Faso is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.679769}
+{"prompt": "The official language of Russia is", "top1_token": " Russian", "top1_id": 7247, "top1_prob": 0.64342}
+{"prompt": "The official language of Ivory Coast is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.875426}
+{"prompt": "The official language of Ukraine is", "top1_token": " Ukrainian", "top1_id": 27485, "top1_prob": 0.745885}
+{"prompt": "The official language of Gabon is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.801248}
+{"prompt": "The official language of Poland is", "top1_token": " Polish", "top1_id": 19701, "top1_prob": 0.870257}
+{"prompt": "The official language of Mali is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.512562}
+{"prompt": "The official language of Greece is", "top1_token": " Greek", "top1_id": 11308, "top1_prob": 0.743553}
+{"prompt": "The official language of Niger is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.382763}
+{"prompt": "The official language of Luxembourg is", "top1_token": " Luxem", "top1_id": 44133, "top1_prob": 0.594031}
+{"prompt": "The official language of Liechtenstein is", "top1_token": " German", "top1_id": 5685, "top1_prob": 0.739199}
+{"prompt": "The official language of Monaco is", "top1_token": " French", "top1_id": 5112, "top1_prob": 0.729593}
+{"prompt": "The official language of San Marino is", "top1_token": " Italian", "top1_id": 9890, "top1_prob": 0.503214}
+{"prompt": "The official language of Belgium is", "top1_token": " Dutch", "top1_id": 13986, "top1_prob": 0.496291}
+{"prompt": "The official language of Vatican City is", "top1_token": " Italian", "top1_id": 9890, "top1_prob": 0.595378}

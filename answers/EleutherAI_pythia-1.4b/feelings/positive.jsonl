@@ -1,0 +1,50 @@
+{"prompt": "I received a thoughtful gift from someone. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.056425}
+{"prompt": "I finished a difficult task successfully. The word for this feeling is '", "top1_token": "success", "top1_id": 12566, "top1_prob": 0.113374}
+{"prompt": "I spent a peaceful day with people I love. The word for this feeling is '", "top1_token": "peace", "top1_id": 38385, "top1_prob": 0.154767}
+{"prompt": "I completed an important project successfully. The word for this feeling is '", "top1_token": "success", "top1_id": 12566, "top1_prob": 0.096626}
+{"prompt": "I trusted that everything would work out. The word for this feeling is '", "top1_token": "hope", "top1_id": 36865, "top1_prob": 0.064737}
+{"prompt": "I solved a problem that seemed impossible before. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.022667}
+{"prompt": "I finally achieved a goal I worked toward for years. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.062497}
+{"prompt": "I experienced something beautiful that took my breath away. The word for this feeling is '", "top1_token": "love", "top1_id": 26617, "top1_prob": 0.024504}
+{"prompt": "I achieved something I once doubted I could do. The word for this feeling is '", "top1_token": "hope", "top1_id": 36865, "top1_prob": 0.038651}
+{"prompt": "I realized everything was going well. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.033384}
+{"prompt": "I experienced complete calm and quiet. The word for this feeling is '", "top1_token": "cal", "top1_id": 1179, "top1_prob": 0.083623}
+{"prompt": "I received sincere praise for my work. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.070108}
+{"prompt": "I appreciated the beauty of a sunset. The word for this feeling is '", "top1_token": "be", "top1_id": 1257, "top1_prob": 0.114017}
+{"prompt": "I discovered something new and exciting. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.018025}
+{"prompt": "I realized my hard work paid off. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.048648}
+{"prompt": "I felt proud of something I created. The word for this feeling is '", "top1_token": "self", "top1_id": 1286, "top1_prob": 0.035755}
+{"prompt": "I felt peaceful after meditation. The word for this feeling is '", "top1_token": "peace", "top1_id": 38385, "top1_prob": 0.070925}
+{"prompt": "I overcame a fear that held me back for years. The word for this feeling is '", "top1_token": "fe", "top1_id": 453, "top1_prob": 0.058976}
+{"prompt": "I helped someone and saw them smile. The word for this feeling is '", "top1_token": "em", "top1_id": 358, "top1_prob": 0.053245}
+{"prompt": "I experienced deep contentment. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.085374}
+{"prompt": "I felt inspired by a powerful story. The word for this feeling is '", "top1_token": "ins", "top1_id": 968, "top1_prob": 0.052895}
+{"prompt": "I admired someone greatly. The word for this feeling is '", "top1_token": "adm", "top1_id": 44434, "top1_prob": 0.244786}
+{"prompt": "I saw someone I love succeed. The word for this feeling is '", "top1_token": "happ", "top1_id": 38472, "top1_prob": 0.079032}
+{"prompt": "I made someone laugh when they were sad. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.048638}
+{"prompt": "I experienced a moment of pure beauty in nature. The word for this feeling is '", "top1_token": "be", "top1_id": 1257, "top1_prob": 0.079498}
+{"prompt": "I received recognition for my achievements. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.071627}
+{"prompt": "I was warmly welcomed somewhere. The word for this feeling is '", "top1_token": "warm", "top1_id": 44041, "top1_prob": 0.041375}
+{"prompt": "I learned a skill I once thought I couldn't master. The word for this feeling is '", "top1_token": "em", "top1_id": 358, "top1_prob": 0.041936}
+{"prompt": "I felt strong enthusiasm for a new idea. The word for this feeling is '", "top1_token": "enth", "top1_id": 7385, "top1_prob": 0.13976}
+{"prompt": "I felt grateful for everything in my life. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.348167}
+{"prompt": "I reunited with a close friend after many years. The word for this feeling is '", "top1_token": "re", "top1_id": 250, "top1_prob": 0.038669}
+{"prompt": "I enjoyed a perfect quiet moment. The word for this feeling is '", "top1_token": "peace", "top1_id": 38385, "top1_prob": 0.046726}
+{"prompt": "I was chosen for an opportunity among many candidates. The word for this feeling is '", "top1_token": "ch", "top1_id": 348, "top1_prob": 0.065969}
+{"prompt": "I saw someone succeed because of my help. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.061729}
+{"prompt": "I watched the sunrise after a long night. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.036049}
+{"prompt": "I celebrated a meaningful achievement. The word for this feeling is '", "top1_token": "cele", "top1_id": 44033, "top1_prob": 0.069255}
+{"prompt": "I felt strong affection for someone dear to me. The word for this feeling is '", "top1_token": "love", "top1_id": 26617, "top1_prob": 0.13311}
+{"prompt": "I felt deep appreciation for everything around me. The word for this feeling is '", "top1_token": "em", "top1_id": 358, "top1_prob": 0.032284}
+{"prompt": "I felt motivated to pursue a new dream. The word for this feeling is '", "top1_token": "mot", "top1_id": 24013, "top1_prob": 0.046644}
+{"prompt": "I opened a message containing wonderful news. The word for this feeling is '", "top1_token": "joy", "top1_id": 3881, "top1_prob": 0.055048}
+{"prompt": "I shared laughter with friends. The word for this feeling is '", "top1_token": "laughter", "top1_id": 36425, "top1_prob": 0.032971}
+{"prompt": "I heard my favorite song unexpectedly. The word for this feeling is '", "top1_token": "sur", "top1_id": 9960, "top1_prob": 0.04802}
+{"prompt": "I saw kindness from a stranger. The word for this feeling is '", "top1_token": "compass", "top1_id": 16452, "top1_prob": 0.177125}
+{"prompt": "I trusted someone completely. The word for this feeling is '", "top1_token": "trust", "top1_id": 32993, "top1_prob": 0.187029}
+{"prompt": "I felt hopeful about what comes next. The word for this feeling is '", "top1_token": "hope", "top1_id": 36865, "top1_prob": 0.434159}
+{"prompt": "I heard that a loved one was safe after danger. The word for this feeling is '", "top1_token": "sur", "top1_id": 9960, "top1_prob": 0.064201}
+{"prompt": "I was filled with excitement about the future. The word for this feeling is '", "top1_token": "hope", "top1_id": 36865, "top1_prob": 0.098475}
+{"prompt": "I received wonderful news that changed my whole day. The word for this feeling is '", "top1_token": "joy", "top1_id": 3881, "top1_prob": 0.058698}
+{"prompt": "I enjoyed a moment of playful fun. The word for this feeling is '", "top1_token": "play", "top1_id": 1993, "top1_prob": 0.060041}
+{"prompt": "I completed a marathon after months of training. The word for this feeling is '", "top1_token": "runner", "top1_id": 28971, "top1_prob": 0.027896}

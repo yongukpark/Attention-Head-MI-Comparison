@@ -1,0 +1,28 @@
+{"prompt": "What is the capital of Italy? Answer:", "top1_token": " Rome", "top1_id": 12300, "top1_prob": 0.389109}
+{"prompt": "What is the capital of Spain? Answer:", "top1_token": " Madrid", "top1_id": 21924, "top1_prob": 0.514349}
+{"prompt": "What is the capital of Mexico? Answer:", "top1_token": " Mexico", "top1_id": 8987, "top1_prob": 0.198384}
+{"prompt": "What is the capital of South Korea? Answer:", "top1_token": " Seoul", "top1_id": 36546, "top1_prob": 0.359273}
+{"prompt": "What is the capital of China? Answer:", "top1_token": " Beijing", "top1_id": 18496, "top1_prob": 0.309043}
+{"prompt": "What is the capital of India? Answer:", "top1_token": " Delhi", "top1_id": 19950, "top1_prob": 0.122993}
+{"prompt": "What is the capital of Russia? Answer:", "top1_token": " Moscow", "top1_id": 16496, "top1_prob": 0.341486}
+{"prompt": "What is the capital of the United Kingdom? Answer:", "top1_token": " London", "top1_id": 4693, "top1_prob": 0.492933}
+{"prompt": "What is the capital of Argentina? Answer:", "top1_token": " Buenos", "top1_id": 46287, "top1_prob": 0.56408}
+{"prompt": "What is the capital of Egypt? Answer:", "top1_token": " Cairo", "top1_id": 37068, "top1_prob": 0.34195}
+{"prompt": "What is the capital of South Africa? Answer:", "top1_token": " Cape", "top1_id": 20904, "top1_prob": 0.320253}
+{"prompt": "What is the capital of Turkey? Answer:", "top1_token": " Ank", "top1_id": 42847, "top1_prob": 0.292962}
+{"prompt": "What is the capital of Indonesia? Answer:", "top1_token": " Jak", "top1_id": 32319, "top1_prob": 0.734669}
+{"prompt": "What is the capital of Saudi Arabia? Answer:", "top1_token": " R", "top1_id": 416, "top1_prob": 0.265693}
+{"prompt": "What is the capital of Thailand? Answer:", "top1_token": " Bangkok", "top1_id": 48771, "top1_prob": 0.381688}
+{"prompt": "What is the capital of Vietnam? Answer:", "top1_token": " Ho", "top1_id": 11826, "top1_prob": 0.242933}
+{"prompt": "What is the capital of Norway? Answer:", "top1_token": " Oslo", "top1_id": 43516, "top1_prob": 0.476848}
+{"prompt": "What is the capital of Sweden? Answer:", "top1_token": " Stockholm", "top1_id": 38476, "top1_prob": 0.622462}
+{"prompt": "What is the capital of Switzerland? Answer:", "top1_token": " Bern", "top1_id": 10246, "top1_prob": 0.222435}
+{"prompt": "What is the capital of Poland? Answer:", "top1_token": " Warsaw", "top1_id": 40431, "top1_prob": 0.268714}
+{"prompt": "What is the capital of Greece? Answer:", "top1_token": " Athens", "top1_id": 27411, "top1_prob": 0.241078}
+{"prompt": "What is the capital of Portugal? Answer:", "top1_token": " Lisbon", "top1_id": 48104, "top1_prob": 0.526668}
+{"prompt": "What is the capital of Belgium? Answer:", "top1_token": " Brussels", "top1_id": 30167, "top1_prob": 0.411098}
+{"prompt": "What is the capital of Austria? Answer:", "top1_token": " Vienna", "top1_id": 26229, "top1_prob": 0.494231}
+{"prompt": "What is the capital of Denmark? Answer:", "top1_token": " Copenhagen", "top1_id": 40892, "top1_prob": 0.5073}
+{"prompt": "What is the capital of Finland? Answer:", "top1_token": " Helsinki", "top1_id": 34159, "top1_prob": 0.380991}
+{"prompt": "What is the capital of Ireland? Answer:", "top1_token": " Dublin", "top1_id": 24523, "top1_prob": 0.397142}
+{"prompt": "What is the capital of New Zealand? Answer:", "top1_token": " Wellington", "top1_id": 42337, "top1_prob": 0.324633}

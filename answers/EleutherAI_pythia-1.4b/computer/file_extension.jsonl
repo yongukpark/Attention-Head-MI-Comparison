@@ -1,0 +1,99 @@
+{"prompt": "The file extension for VHDL source files is .", "top1_token": "vh", "top1_id": 42781, "top1_prob": 0.81289}
+{"prompt": "The file extension for C source files is .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.871625}
+{"prompt": "The file extension for Nim source files is .", "top1_token": "n", "top1_id": 79, "top1_prob": 0.740282}
+{"prompt": "Files written in Elixir typically use the extension .", "top1_token": "ex", "top1_id": 911, "top1_prob": 0.391182}
+{"prompt": "Files written in PureScript typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.428456}
+{"prompt": "Files written in Java typically use the extension .", "top1_token": "java", "top1_id": 5594, "top1_prob": 0.472524}
+{"prompt": "The file extension for Scheme source files is .", "top1_token": "sc", "top1_id": 1026, "top1_prob": 0.472623}
+{"prompt": "The file extension for JavaScript source files is .", "top1_token": "js", "top1_id": 4305, "top1_prob": 0.957167}
+{"prompt": "Files written in PHP typically use the extension .", "top1_token": "php", "top1_id": 5581, "top1_prob": 0.602284}
+{"prompt": "The file extension for Scala source files is .", "top1_token": "scala", "top1_id": 36650, "top1_prob": 0.973023}
+{"prompt": "Files written in Zig typically use the extension .", "top1_token": "zig", "top1_id": 29899, "top1_prob": 0.671628}
+{"prompt": "The file extension for Haskell source files is .", "top1_token": "hs", "top1_id": 11285, "top1_prob": 0.937697}
+{"prompt": "The file extension for Swift source files is .", "top1_token": "swift", "top1_id": 36036, "top1_prob": 0.916568}
+{"prompt": "Files written in Kotlin typically use the extension .", "top1_token": "kt", "top1_id": 5751, "top1_prob": 0.826217}
+{"prompt": "Files written in GLSL typically use the extension .", "top1_token": "vert", "top1_id": 1748, "top1_prob": 0.27181}
+{"prompt": "Files written in Red language typically use the extension .", "top1_token": "red", "top1_id": 433, "top1_prob": 0.204314}
+{"prompt": "The file extension for Objective-C source files is .", "top1_token": "m", "top1_id": 78, "top1_prob": 0.865094}
+{"prompt": "Files written in V language typically use the extension .", "top1_token": "v", "top1_id": 87, "top1_prob": 0.289836}
+{"prompt": "The file extension for Squirrel source files is .", "top1_token": "s", "top1_id": 84, "top1_prob": 0.208396}
+{"prompt": "Files written in Pony typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.406581}
+{"prompt": "The file extension for Fortran source files is .", "top1_token": "f", "top1_id": 71, "top1_prob": 0.903731}
+{"prompt": "Files written in Perl typically use the extension .", "top1_token": "pl", "top1_id": 446, "top1_prob": 0.31056}
+{"prompt": "The file extension for Ada source files is .", "top1_token": "ada", "top1_id": 2960, "top1_prob": 0.513409}
+{"prompt": "The file extension for Lua source files is .", "top1_token": "lu", "top1_id": 7675, "top1_prob": 0.386128}
+{"prompt": "The file extension for Erlang source files is .", "top1_token": "erl", "top1_id": 45043, "top1_prob": 0.815635}
+{"prompt": "Files written in TypeScript typically use the extension .", "top1_token": "ts", "top1_id": 1641, "top1_prob": 0.744634}
+{"prompt": "Files written in R typically use the extension .", "top1_token": "R", "top1_id": 51, "top1_prob": 0.516926}
+{"prompt": "The file extension for Go source files is .", "top1_token": "go", "top1_id": 2184, "top1_prob": 0.975913}
+{"prompt": "Files written in Kotlin typically use the extension .", "top1_token": "kt", "top1_id": 5751, "top1_prob": 0.826217}
+{"prompt": "The file extension for Scheme source files is .", "top1_token": "sc", "top1_id": 1026, "top1_prob": 0.472623}
+{"prompt": "The file extension for Hack language source files is .", "top1_token": "h", "top1_id": 73, "top1_prob": 0.359115}
+{"prompt": "Files written in Red language typically use the extension .", "top1_token": "red", "top1_id": 433, "top1_prob": 0.204314}
+{"prompt": "The file extension for MATLAB source files is .", "top1_token": "m", "top1_id": 78, "top1_prob": 0.852366}
+{"prompt": "Files written in Prolog typically use the extension .", "top1_token": "pl", "top1_id": 446, "top1_prob": 0.29711}
+{"prompt": "Files written in Julia typically use the extension .", "top1_token": "jl", "top1_id": 40031, "top1_prob": 0.72992}
+{"prompt": "The file extension for Ruby source files is .", "top1_token": "rb", "top1_id": 13041, "top1_prob": 0.505737}
+{"prompt": "The file extension for F# source files is .", "top1_token": "fs", "top1_id": 3671, "top1_prob": 0.968938}
+{"prompt": "Files written in R typically use the extension .", "top1_token": "R", "top1_id": 51, "top1_prob": 0.518534}
+{"prompt": "Files written in PHP typically use the extension .", "top1_token": "php", "top1_id": 5581, "top1_prob": 0.599225}
+{"prompt": "Files written in C++ typically use the extension .", "top1_token": "cpp", "top1_id": 14161, "top1_prob": 0.300434}
+{"prompt": "The file extension for VHDL source files is .", "top1_token": "vh", "top1_id": 42781, "top1_prob": 0.812717}
+{"prompt": "Files written in PureScript typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.431865}
+{"prompt": "Files written in C++ typically use the extension .", "top1_token": "cpp", "top1_id": 14161, "top1_prob": 0.300434}
+{"prompt": "Files written in Elixir typically use the extension .", "top1_token": "ex", "top1_id": 911, "top1_prob": 0.392871}
+{"prompt": "The file extension for MATLAB source files is .", "top1_token": "m", "top1_id": 78, "top1_prob": 0.852366}
+{"prompt": "The file extension for Ada source files is .", "top1_token": "ada", "top1_id": 2960, "top1_prob": 0.510603}
+{"prompt": "The file extension for PowerShell scripts is .", "top1_token": "ps", "top1_id": 793, "top1_prob": 0.989762}
+{"prompt": "Files written in Perl typically use the extension .", "top1_token": "pl", "top1_id": 446, "top1_prob": 0.307268}
+{"prompt": "The file extension for Go source files is .", "top1_token": "go", "top1_id": 2184, "top1_prob": 0.976548}
+{"prompt": "The file extension for Assembly source files is .", "top1_token": "asm", "top1_id": 4542, "top1_prob": 0.162175}
+{"prompt": "The file extension for ReasonML source files is .", "top1_token": "re", "top1_id": 250, "top1_prob": 0.145468}
+{"prompt": "The file extension for Lua source files is .", "top1_token": "lu", "top1_id": 7675, "top1_prob": 0.3866}
+{"prompt": "Files written in Pike typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.27537}
+{"prompt": "Files written in Verilog typically use the extension .", "top1_token": "v", "top1_id": 87, "top1_prob": 0.313502}
+{"prompt": "Files written in Dart typically use the extension .", "top1_token": "d", "top1_id": 69, "top1_prob": 0.547961}
+{"prompt": "Files written in Crystal typically use the extension .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.125535}
+{"prompt": "Files written in Rust typically use the extension .", "top1_token": "rs", "top1_id": 2967, "top1_prob": 0.849727}
+{"prompt": "The file extension for Ruby source files is .", "top1_token": "rb", "top1_id": 13041, "top1_prob": 0.505737}
+{"prompt": "Files written in Zig typically use the extension .", "top1_token": "zig", "top1_id": 29899, "top1_prob": 0.664502}
+{"prompt": "Files written in Common Lis .p typically use the extension .", "top1_token": "l", "top1_id": 77, "top1_prob": 0.085251}
+{"prompt": "The file extension for Swift source files is .", "top1_token": "swift", "top1_id": 36036, "top1_prob": 0.916317}
+{"prompt": "The file extension for Fortran source files is .", "top1_token": "f", "top1_id": 71, "top1_prob": 0.901471}
+{"prompt": "Files written in V language typically use the extension .", "top1_token": "v", "top1_id": 87, "top1_prob": 0.28947}
+{"prompt": "The file extension for JavaScript source files is .", "top1_token": "js", "top1_id": 4305, "top1_prob": 0.958157}
+{"prompt": "The file extension for Haskell source files is .", "top1_token": "hs", "top1_id": 11285, "top1_prob": 0.938786}
+{"prompt": "Files written in Rust typically use the extension .", "top1_token": "rs", "top1_id": 2967, "top1_prob": 0.849727}
+{"prompt": "Files written in Crystal typically use the extension .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.125535}
+{"prompt": "The file extension for PowerShell scripts is .", "top1_token": "ps", "top1_id": 793, "top1_prob": 0.989762}
+{"prompt": "The file extension for F# source files is .", "top1_token": "fs", "top1_id": 3671, "top1_prob": 0.968938}
+{"prompt": "Files written in Shell scripts typically use the extension .", "top1_token": "sh", "top1_id": 1200, "top1_prob": 0.625332}
+{"prompt": "Files written in Dart typically use the extension .", "top1_token": "d", "top1_id": 69, "top1_prob": 0.547961}
+{"prompt": "The file extension for Squirrel source files is .", "top1_token": "s", "top1_id": 84, "top1_prob": 0.207751}
+{"prompt": "Files written in COBOL typically use the extension .", "top1_token": "CO", "top1_id": 5915, "top1_prob": 0.193309}
+{"prompt": "The file extension for Scala source files is .", "top1_token": "scala", "top1_id": 36650, "top1_prob": 0.973236}
+{"prompt": "The file extension for Objective-C source files is .", "top1_token": "m", "top1_id": 78, "top1_prob": 0.864446}
+{"prompt": "The file extension for Chapel source files is .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.19297}
+{"prompt": "The file extension for Assembly source files is .", "top1_token": "asm", "top1_id": 4542, "top1_prob": 0.162175}
+{"prompt": "The file extension for ReasonML source files is .", "top1_token": "re", "top1_id": 250, "top1_prob": 0.145468}
+{"prompt": "The file extension for Nim source files is .", "top1_token": "n", "top1_id": 79, "top1_prob": 0.740895}
+{"prompt": "Files written in OCaml typically use the extension .", "top1_token": "ml", "top1_id": 1686, "top1_prob": 0.387695}
+{"prompt": "The file extension for Hack language source files is .", "top1_token": "h", "top1_id": 73, "top1_prob": 0.35563}
+{"prompt": "Files written in Pony typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.406884}
+{"prompt": "Files written in GLSL typically use the extension .", "top1_token": "vert", "top1_id": 1748, "top1_prob": 0.270892}
+{"prompt": "The file extension for Python source files is .", "top1_token": "py", "top1_id": 4789, "top1_prob": 0.972369}
+{"prompt": "Files written in Shell scripts typically use the extension .", "top1_token": "sh", "top1_id": 1200, "top1_prob": 0.625332}
+{"prompt": "Files written in OCaml typically use the extension .", "top1_token": "ml", "top1_id": 1686, "top1_prob": 0.387695}
+{"prompt": "Files written in Java typically use the extension .", "top1_token": "java", "top1_id": 5594, "top1_prob": 0.471577}
+{"prompt": "Files written in Prolog typically use the extension .", "top1_token": "pl", "top1_id": 446, "top1_prob": 0.29711}
+{"prompt": "Files written in Verilog typically use the extension .", "top1_token": "v", "top1_id": 87, "top1_prob": 0.313502}
+{"prompt": "The file extension for Erlang source files is .", "top1_token": "erl", "top1_id": 45043, "top1_prob": 0.81717}
+{"prompt": "The file extension for Chapel source files is .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.19297}
+{"prompt": "Files written in Julia typically use the extension .", "top1_token": "jl", "top1_id": 40031, "top1_prob": 0.72992}
+{"prompt": "Files written in Common Lis .p typically use the extension .", "top1_token": "l", "top1_id": 77, "top1_prob": 0.085251}
+{"prompt": "The file extension for C source files is .", "top1_token": "c", "top1_id": 68, "top1_prob": 0.871583}
+{"prompt": "The file extension for Smalltalk source files is .", "top1_token": "s", "top1_id": 84, "top1_prob": 0.52314}
+{"prompt": "The file extension for Python source files is .", "top1_token": "py", "top1_id": 4789, "top1_prob": 0.972369}
+{"prompt": "Files written in TypeScript typically use the extension .", "top1_token": "ts", "top1_id": 1641, "top1_prob": 0.743731}
+{"prompt": "Files written in Pike typically use the extension .", "top1_token": "p", "top1_id": 81, "top1_prob": 0.272934}
+{"prompt": "Files written in COBOL typically use the extension .", "top1_token": "CO", "top1_id": 5915, "top1_prob": 0.191749}

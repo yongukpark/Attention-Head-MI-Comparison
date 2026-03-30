@@ -1,0 +1,26 @@
+{"prompt": "In a medical context, the term for 'loss of smell' is '", "top1_token": "anos", "top1_id": 29496, "top1_prob": 0.590833}
+{"prompt": "In a medical context, the term for 'muscle pain' is '", "top1_token": "my", "top1_id": 2577, "top1_prob": 0.196833}
+{"prompt": "In a medical context, the term for 'shortness of breath' is '", "top1_token": "d", "top1_id": 69, "top1_prob": 0.514157}
+{"prompt": "In a medical context, the term for 'ringing in the ears' is '", "top1_token": "t", "top1_id": 85, "top1_prob": 0.28271}
+{"prompt": "In a medical context, the term for 'double vision' is '", "top1_token": "double", "top1_id": 12237, "top1_prob": 0.252958}
+{"prompt": "In a medical context, the term for 'low blood sugar' is '", "top1_token": "hyp", "top1_id": 35040, "top1_prob": 0.828819}
+{"prompt": "In a medical context, the term for 'difficulty swallowing' is '", "top1_token": "d", "top1_id": 69, "top1_prob": 0.395389}
+{"prompt": "In a medical context, the term for 'difficulty sleeping' is '", "top1_token": "ins", "top1_id": 968, "top1_prob": 0.355748}
+{"prompt": "In a medical context, the term for 'blood in urine' is '", "top1_token": "hemat", "top1_id": 10479, "top1_prob": 0.474925}
+{"prompt": "In a medical context, the term for 'swelling' is '", "top1_token": "ed", "top1_id": 264, "top1_prob": 0.217423}
+{"prompt": "In a medical context, the term for 'coughing up blood' is '", "top1_token": "hem", "top1_id": 3296, "top1_prob": 0.369462}
+{"prompt": "In a medical context, the term for 'menstrual pain' is '", "top1_token": "men", "top1_id": 3767, "top1_prob": 0.196897}
+{"prompt": "In a medical context, the term for 'joint pain' is '", "top1_token": "arth", "top1_id": 5401, "top1_prob": 0.283439}
+{"prompt": "In a medical context, the term for 'dry mouth' is '", "top1_token": "x", "top1_id": 89, "top1_prob": 0.323532}
+{"prompt": "In a medical context, the term for 'loss of memory' is '", "top1_token": "am", "top1_id": 312, "top1_prob": 0.355273}
+{"prompt": "In a medical context, the term for 'bruise' is '", "top1_token": "hemat", "top1_id": 10479, "top1_prob": 0.082722}
+{"prompt": "In a medical context, the term for 'sensitivity to light' is '", "top1_token": "phot", "top1_id": 22468, "top1_prob": 0.716911}
+{"prompt": "In a medical context, the term for 'hair loss' is '", "top1_token": "alo", "top1_id": 12584, "top1_prob": 0.565648}
+{"prompt": "In a medical context, the term for 'low blood pressure' is '", "top1_token": "hy", "top1_id": 1994, "top1_prob": 0.217116}
+{"prompt": "In a medical context, the term for 'inability to speak' is '", "top1_token": "ap", "top1_id": 522, "top1_prob": 0.195282}
+{"prompt": "In a medical context, the term for 'stomach pain' is '", "top1_token": "g", "top1_id": 72, "top1_prob": 0.499526}
+{"prompt": "In a medical context, the term for 'nerve pain' is '", "top1_token": "ne", "top1_id": 570, "top1_prob": 0.227535}
+{"prompt": "In a medical context, the term for 'excessive sweating' is '", "top1_token": "hyper", "top1_id": 27049, "top1_prob": 0.279772}
+{"prompt": "In a medical context, the term for 'dizziness or spinning sensation' is '", "top1_token": "vert", "top1_id": 1748, "top1_prob": 0.61886}
+{"prompt": "In a medical context, the term for 'high blood pressure' is '", "top1_token": "hypert", "top1_id": 41537, "top1_prob": 0.791805}
+{"prompt": "In a medical context, the term for 'tiredness or lack of energy' is '", "top1_token": "fat", "top1_id": 19397, "top1_prob": 0.245264}

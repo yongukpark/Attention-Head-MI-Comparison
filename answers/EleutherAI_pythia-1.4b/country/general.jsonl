@@ -1,0 +1,28 @@
+{"prompt": "Rome is the capital of which country? Answer:", "top1_token": " Italy", "top1_id": 9972, "top1_prob": 0.240408}
+{"prompt": "Madrid is the capital of which country? Answer:", "top1_token": " Spain", "top1_id": 11268, "top1_prob": 0.285208}
+{"prompt": "Mexico City is the capital of which country? Answer:", "top1_token": " Mexico", "top1_id": 8987, "top1_prob": 0.313224}
+{"prompt": "Seoul is the capital of which country? Answer:", "top1_token": " South", "top1_id": 3684, "top1_prob": 0.294266}
+{"prompt": "Beijing is the capital of which country? Answer:", "top1_token": " China", "top1_id": 4135, "top1_prob": 0.243807}
+{"prompt": "New Delhi is the capital of which country? Answer:", "top1_token": " India", "top1_id": 5427, "top1_prob": 0.306091}
+{"prompt": "Moscow is the capital of which country? Answer:", "top1_token": " Russia", "top1_id": 7422, "top1_prob": 0.383319}
+{"prompt": "London is the capital of which country? Answer:", "top1_token": " England", "top1_id": 5854, "top1_prob": 0.138285}
+{"prompt": "Buenos Aires is the capital of which country? Answer:", "top1_token": " Argentina", "top1_id": 23881, "top1_prob": 0.648981}
+{"prompt": "Cairo is the capital of which country? Answer:", "top1_token": " Egypt", "top1_id": 10253, "top1_prob": 0.252007}
+{"prompt": "Pretoria is the capital of which country? Answer:", "top1_token": " South", "top1_id": 3684, "top1_prob": 0.467539}
+{"prompt": "Ankara is the capital of which country? Answer:", "top1_token": " Turkey", "top1_id": 14307, "top1_prob": 0.203362}
+{"prompt": "Jakarta is the capital of which country? Answer:", "top1_token": " Indonesia", "top1_id": 23340, "top1_prob": 0.583504}
+{"prompt": "Riyadh is the capital of which country? Answer:", "top1_token": " Saudi", "top1_id": 16158, "top1_prob": 0.464279}
+{"prompt": "Bangkok is the capital of which country? Answer:", "top1_token": " Thailand", "top1_id": 23174, "top1_prob": 0.411789}
+{"prompt": "Hanoi is the capital of which country? Answer:", "top1_token": " Vietnam", "top1_id": 15732, "top1_prob": 0.421402}
+{"prompt": "Oslo is the capital of which country? Answer:", "top1_token": " Norway", "top1_id": 20341, "top1_prob": 0.575393}
+{"prompt": "Stockholm is the capital of which country? Answer:", "top1_token": " Sweden", "top1_id": 16842, "top1_prob": 0.415598}
+{"prompt": "Bern is the capital of which country? Answer:", "top1_token": " Belgium", "top1_id": 22785, "top1_prob": 0.125171}
+{"prompt": "Warsaw is the capital of which country? Answer:", "top1_token": " Poland", "top1_id": 16795, "top1_prob": 0.500943}
+{"prompt": "Athens is the capital of which country? Answer:", "top1_token": " Greece", "top1_id": 17785, "top1_prob": 0.452925}
+{"prompt": "Lisbon is the capital of which country? Answer:", "top1_token": " Portugal", "top1_id": 24084, "top1_prob": 0.32497}
+{"prompt": "Brussels is the capital of which country? Answer:", "top1_token": " Belgium", "top1_id": 22785, "top1_prob": 0.45554}
+{"prompt": "Vienna is the capital of which country? Answer:", "top1_token": " Austria", "top1_id": 21753, "top1_prob": 0.356384}
+{"prompt": "Copenhagen is the capital of which country? Answer:", "top1_token": " Denmark", "top1_id": 22783, "top1_prob": 0.443754}
+{"prompt": "Helsinki is the capital of which country? Answer:", "top1_token": " Finland", "top1_id": 25270, "top1_prob": 0.492329}
+{"prompt": "Dublin is the capital of which country? Answer:", "top1_token": " Ireland", "top1_id": 11011, "top1_prob": 0.399957}
+{"prompt": "Wellington is the capital of which country? Answer:", "top1_token": " New", "top1_id": 1457, "top1_prob": 0.154692}

@@ -1,0 +1,75 @@
+{"prompt": "The color of banana is yellow.\nThe color of snow is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.332137}
+{"prompt": "The color of banana is yellow.\nThe color of grass is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.400489}
+{"prompt": "The color of banana is yellow.\nThe color of strawberry is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.25873}
+{"prompt": "The color of banana is yellow.\nThe color of charcoal is '", "top1_token": "black", "top1_id": 11958, "top1_prob": 0.124718}
+{"prompt": "The color of banana is yellow.\nThe color of banana is '", "top1_token": "yellow", "top1_id": 28659, "top1_prob": 0.302001}
+{"prompt": "The color of banana is yellow.\nThe color of sun is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.15586}
+{"prompt": "The color of banana is yellow.\nThe color of cucumber is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.200994}
+{"prompt": "The color of banana is yellow.\nThe color of sea is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.080674}
+{"prompt": "The color of banana is yellow.\nThe color of almond is '", "top1_token": "gold", "top1_id": 27716, "top1_prob": 0.059929}
+{"prompt": "The color of banana is yellow.\nThe color of fire truck is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.205156}
+{"prompt": "The color of banana is yellow.\nThe color of orange is '", "top1_token": "orange", "top1_id": 35270, "top1_prob": 0.165923}
+{"prompt": "The color of banana is yellow.\nThe color of seeweed is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.114913}
+{"prompt": "The color of banana is yellow.\nThe color of tomato is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.360341}
+{"prompt": "The color of banana is yellow.\nThe color of blueberry is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.135236}
+{"prompt": "The color of banana is yellow.\nThe color of clover is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.161513}
+{"prompt": "The color of banana is yellow.\nThe color of dog is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.108495}
+{"prompt": "The color of banana is yellow.\nThe color of moon is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.080853}
+{"prompt": "The color of banana is yellow.\nThe color of stop sign is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.132932}
+{"prompt": "The color of banana is yellow.\nThe color of spinach is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.294247}
+{"prompt": "The color of banana is yellow.\nThe color of cake is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.075562}
+{"prompt": "The color of banana is yellow.\nThe color of dolphin is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.08498}
+{"prompt": "The color of banana is yellow.\nThe color of lettuce is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.414263}
+{"prompt": "The color of banana is yellow.\nThe color of chalk is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.104166}
+{"prompt": "The color of banana is yellow.\nThe color of frog is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.137191}
+{"prompt": "The color of banana is yellow.\nThe color of chili is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.263402}
+{"prompt": "The color of banana is yellow.\nThe color of honey is '", "top1_token": "gold", "top1_id": 27716, "top1_prob": 0.083869}
+{"prompt": "The color of banana is yellow.\nThe color of sunflower is '", "top1_token": "yellow", "top1_id": 28659, "top1_prob": 0.116149}
+{"prompt": "The color of banana is yellow.\nThe color of brownie is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.232918}
+{"prompt": "The color of banana is yellow.\nThe color of teeth is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.122107}
+{"prompt": "The color of banana is yellow.\nThe color of bamboo is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.13241}
+{"prompt": "The color of banana is yellow.\nThe color of sand is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.081359}
+{"prompt": "The color of banana is yellow.\nThe color of blood is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.351337}
+{"prompt": "The color of banana is yellow.\nThe color of yogurt is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.093034}
+{"prompt": "The color of banana is yellow.\nThe color of egg yolk is '", "top1_token": "gold", "top1_id": 27716, "top1_prob": 0.08739}
+{"prompt": "The color of banana is yellow.\nThe color of turtle is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.094572}
+{"prompt": "The color of banana is yellow.\nThe color of tongue is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.120059}
+{"prompt": "The color of banana is yellow.\nThe color of milk is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.111469}
+{"prompt": "The color of banana is yellow.\nThe color of tree is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.245261}
+{"prompt": "The color of banana is yellow.\nThe color of cherry is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.216878}
+{"prompt": "The color of banana is yellow.\nThe color of honeybees is '", "top1_token": "yellow", "top1_id": 28659, "top1_prob": 0.105398}
+{"prompt": "The color of banana is yellow.\nThe color of whiteboard is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.228504}
+{"prompt": "The color of banana is yellow.\nThe color of lime is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.21562}
+{"prompt": "The color of banana is yellow.\nThe color of deer is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.161383}
+{"prompt": "The color of banana is yellow.\nThe color of navy uniform is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.064484}
+{"prompt": "The color of banana is yellow.\nThe color of soot is '", "top1_token": "black", "top1_id": 11958, "top1_prob": 0.111048}
+{"prompt": "The color of banana is yellow.\nThe color of kiwi is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.123411}
+{"prompt": "The color of banana is yellow.\nThe color of dragonfruit is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.124869}
+{"prompt": "The color of banana is yellow.\nThe color of egg shell is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.101891}
+{"prompt": "The color of banana is yellow.\nThe color of cabbage is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.230637}
+{"prompt": "The color of banana is yellow.\nThe color of spaghetti is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.155092}
+{"prompt": "The color of banana is yellow.\nThe color of cloud is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.104223}
+{"prompt": "The color of banana is yellow.\nThe color of aloe is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.144306}
+{"prompt": "The color of banana is yellow.\nThe color of sunglass is '", "top1_token": "black", "top1_id": 11958, "top1_prob": 0.060038}
+{"prompt": "The color of banana is yellow.\nThe color of ruby is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.293066}
+{"prompt": "The color of banana is yellow.\nThe color of ocean is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.149726}
+{"prompt": "The color of banana is yellow.\nThe color of avocado is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.224104}
+{"prompt": "The color of banana is yellow.\nThe color of clear sky is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.168082}
+{"prompt": "The color of banana is yellow.\nThe color of butterfly is '", "top1_token": "yellow", "top1_id": 28659, "top1_prob": 0.079528}
+{"prompt": "The color of banana is yellow.\nThe color of bluebells is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.117924}
+{"prompt": "The color of banana is yellow.\nThe color of fire is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.313116}
+{"prompt": "The color of banana is yellow.\nThe color of forest is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.226526}
+{"prompt": "The color of banana is yellow.\nThe color of coffee is '", "top1_token": "black", "top1_id": 11958, "top1_prob": 0.113621}
+{"prompt": "The color of banana is yellow.\nThe color of apple is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.241671}
+{"prompt": "The color of banana is yellow.\nThe color of emerald is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.260897}
+{"prompt": "The color of banana is yellow.\nThe color of ketchup is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.381455}
+{"prompt": "The color of banana is yellow.\nThe color of cactus is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.165441}
+{"prompt": "The color of banana is yellow.\nThe color of popcorn is '", "top1_token": "white", "top1_id": 11300, "top1_prob": 0.102376}
+{"prompt": "The color of banana is yellow.\nThe color of tangerine is '", "top1_token": "orange", "top1_id": 35270, "top1_prob": 0.123094}
+{"prompt": "The color of banana is yellow.\nThe color of peanut is '", "top1_token": "brown", "top1_id": 33167, "top1_prob": 0.173394}
+{"prompt": "The color of banana is yellow.\nThe color of broccoli is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.254421}
+{"prompt": "The color of banana is yellow.\nThe color of rose is '", "top1_token": "red", "top1_id": 433, "top1_prob": 0.195302}
+{"prompt": "The color of banana is yellow.\nThe color of pumpkin is '", "top1_token": "orange", "top1_id": 35270, "top1_prob": 0.085721}
+{"prompt": "The color of banana is yellow.\nThe color of shamrock is '", "top1_token": "green", "top1_id": 11707, "top1_prob": 0.179349}
+{"prompt": "The color of banana is yellow.\nThe color of water is '", "top1_token": "blue", "top1_id": 11863, "top1_prob": 0.102742}
+{"prompt": "The color of banana is yellow.\nThe color of cherry blossom is '", "top1_token": "pink", "top1_id": 49723, "top1_prob": 0.118399}

@@ -1,0 +1,37 @@
+{"prompt": "The chef prepared the meal. The meal was", "top1_token": " served", "top1_id": 5608, "top1_prob": 0.146772}
+{"prompt": "Wind blew the leaves. The leaves were", "top1_token": " blown", "top1_id": 24684, "top1_prob": 0.045409}
+{"prompt": "The doctor treated the patient. The patient was", "top1_token": " discharged", "top1_id": 19439, "top1_prob": 0.106844}
+{"prompt": "The singer performed the song. The song was", "top1_token": " released", "top1_id": 4439, "top1_prob": 0.154267}
+{"prompt": "The architect designed the villa. The villa was", "top1_token": " built", "top1_id": 4270, "top1_prob": 0.37825}
+{"prompt": "The editor checked the manuscript. The manuscript was", "top1_token": " read", "top1_id": 1239, "top1_prob": 0.130956}
+{"prompt": "Police caught the thief. The thief was", "top1_token": " caught", "top1_id": 7270, "top1_prob": 0.074838}
+{"prompt": "The author wrote the novel. The novel was", "top1_token": " published", "top1_id": 3863, "top1_prob": 0.2036}
+{"prompt": "The storm damaged the roof. The roof was", "top1_token": " replaced", "top1_id": 7932, "top1_prob": 0.098096}
+{"prompt": "The photographer took the picture. The picture was", "top1_token": " taken", "top1_id": 2668, "top1_prob": 0.257748}
+{"prompt": "The mechanic fixed the car. The car was", "top1_token": " fixed", "top1_id": 4229, "top1_prob": 0.09287}
+{"prompt": "The manager signed the document. The document was", "top1_token": " signed", "top1_id": 6704, "top1_prob": 0.159776}
+{"prompt": "The nurse administered the drug. The drug was", "top1_token": " administered", "top1_id": 11966, "top1_prob": 0.096175}
+{"prompt": "The child broke the vase. The vase was", "top1_token": " broken", "top1_id": 7154, "top1_prob": 0.181525}
+{"prompt": "The witness identified the suspect. The suspect was", "top1_token": " arrested", "top1_id": 9833, "top1_prob": 0.117805}
+{"prompt": "The player kicked the ball. The ball was", "top1_token": " kicked", "top1_id": 19301, "top1_prob": 0.125287}
+{"prompt": "The scientist discovered the element. The element was", "top1_token": " named", "top1_id": 4907, "top1_prob": 0.134227}
+{"prompt": "The lion hunted the zebra. The zebra was", "top1_token": " hunted", "top1_id": 47214, "top1_prob": 0.198176}
+{"prompt": "The farmer harvested the corn. The corn was", "top1_token": " cut", "top1_id": 2624, "top1_prob": 0.049901}
+{"prompt": "The kid built the tower. The tower was", "top1_token": " built", "top1_id": 4270, "top1_prob": 0.179827}
+{"prompt": "The team won the trophy. The trophy was", "top1_token": " presented", "top1_id": 3559, "top1_prob": 0.166591}
+{"prompt": "The flood ruined the crops. The crops were", "top1_token": " ruined", "top1_id": 27826, "top1_prob": 0.273108}
+{"prompt": "The builder laid the bricks. The bricks were", "top1_token": " laid", "top1_id": 10090, "top1_prob": 0.218002}
+{"prompt": "The actor learned the lines. The lines were", "top1_token": " written", "top1_id": 3542, "top1_prob": 0.065455}
+{"prompt": "The host welcomed the guests. The guests were", "top1_token": " seated", "top1_id": 22813, "top1_prob": 0.094149}
+{"prompt": "The librarian sorted the books. The books were", "top1_token": " arranged", "top1_id": 10912, "top1_prob": 0.083856}
+{"prompt": "The programmer wrote the code. The code was", "top1_token": " tested", "top1_id": 5762, "top1_prob": 0.201417}
+{"prompt": "The chemist mixed the acids. The acids were", "top1_token": " mixed", "top1_id": 6804, "top1_prob": 0.091941}
+{"prompt": "The snake bit the hiker. The hiker was", "top1_token": " taken", "top1_id": 2668, "top1_prob": 0.123895}
+{"prompt": "The lightning struck the tree. The tree was", "top1_token": " struck", "top1_id": 10903, "top1_prob": 0.132095}
+{"prompt": "The spy leaked the secret. The secret was", "top1_token": " revealed", "top1_id": 4950, "top1_prob": 0.063218}
+{"prompt": "The detective solved the mystery. The mystery was", "top1_token": " solved", "top1_id": 14042, "top1_prob": 0.457836}
+{"prompt": "The lawyer argued the case. The case was", "top1_token": " heard", "top1_id": 3735, "top1_prob": 0.143736}
+{"prompt": "The father washed the dishes. The dishes were", "top1_token": " washed", "top1_id": 11974, "top1_prob": 0.068065}
+{"prompt": "The boss approved the leave. The leave was", "top1_token": " granted", "top1_id": 7169, "top1_prob": 0.088878}
+{"prompt": "The assistant booked the flight. The flight was", "top1_token": " scheduled", "top1_id": 11526, "top1_prob": 0.100776}
+{"prompt": "The customer paid the bill. The bill was", "top1_token": " paid", "top1_id": 5087, "top1_prob": 0.204833}

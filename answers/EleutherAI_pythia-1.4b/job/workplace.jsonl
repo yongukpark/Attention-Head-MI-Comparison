@@ -1,0 +1,70 @@
+{"prompt": "A security guard works in a", "top1_token": " security", "top1_id": 3988, "top1_prob": 0.040973}
+{"prompt": "A researcher works in a", "top1_token": " lab", "top1_id": 5188, "top1_prob": 0.255967}
+{"prompt": "A fisherman works on a", "top1_token": " boat", "top1_id": 9735, "top1_prob": 0.124221}
+{"prompt": "A miner works in a", "top1_token": " mine", "top1_id": 7477, "top1_prob": 0.293827}
+{"prompt": "A barber works in a", "top1_token": " shop", "top1_id": 8979, "top1_prob": 0.094645}
+{"prompt": "A coach works in a", "top1_token": " way", "top1_id": 1039, "top1_prob": 0.048561}
+{"prompt": "A shopkeeper works in a", "top1_token": " shop", "top1_id": 8979, "top1_prob": 0.087992}
+{"prompt": "A librarian works in a", "top1_token": " library", "top1_id": 6335, "top1_prob": 0.471075}
+{"prompt": "A police officer works at a", "top1_token": " crime", "top1_id": 6617, "top1_prob": 0.152833}
+{"prompt": "A florist works in a", "top1_token": " flower", "top1_id": 17514, "top1_prob": 0.050603}
+{"prompt": "A therapist works in a", "top1_token": " therapeutic", "top1_id": 9282, "top1_prob": 0.082345}
+{"prompt": "A photographer works in a", "top1_token": " studio", "top1_id": 11803, "top1_prob": 0.2529}
+{"prompt": "A counselor works in a", "top1_token": " group", "top1_id": 1387, "top1_prob": 0.05622}
+{"prompt": "A referee works on a", "top1_token": " game", "top1_id": 2165, "top1_prob": 0.035741}
+{"prompt": "A hairdresser works in a", "top1_token": " salon", "top1_id": 48574, "top1_prob": 0.157011}
+{"prompt": "A bus driver works in a", "top1_token": " bus", "top1_id": 1685, "top1_prob": 0.133366}
+{"prompt": "A nurse works in a", "top1_token": " hospital", "top1_id": 4675, "top1_prob": 0.143311}
+{"prompt": "A sailor works on a", "top1_token": " ship", "top1_id": 6215, "top1_prob": 0.239068}
+{"prompt": "A software engineer works in a", "top1_token": " team", "top1_id": 2285, "top1_prob": 0.182915}
+{"prompt": "A writer works in a", "top1_token": " small", "top1_id": 1355, "top1_prob": 0.028926}
+{"prompt": "A data scientist works in a", "top1_token": " data", "top1_id": 941, "top1_prob": 0.144271}
+{"prompt": "A tailor works in a", "top1_token": " shop", "top1_id": 8979, "top1_prob": 0.114142}
+{"prompt": "A mechanic works in a", "top1_token": " garage", "top1_id": 19476, "top1_prob": 0.32021}
+{"prompt": "A hotel manager works in a", "top1_token": " hotel", "top1_id": 8614, "top1_prob": 0.220626}
+{"prompt": "A gardener works in a", "top1_token": " garden", "top1_id": 10329, "top1_prob": 0.23131}
+{"prompt": "A teacher works in a", "top1_token": " classroom", "top1_id": 20874, "top1_prob": 0.28089}
+{"prompt": "A firefighter works at a", "top1_token": " fire", "top1_id": 3289, "top1_prob": 0.273282}
+{"prompt": "A tour guide works in a", "top1_token": " restaurant", "top1_id": 10301, "top1_prob": 0.029669}
+{"prompt": "A musician works in a", "top1_token": " studio", "top1_id": 11803, "top1_prob": 0.159656}
+{"prompt": "A electrician works in a", "top1_token": " garage", "top1_id": 19476, "top1_prob": 0.092535}
+{"prompt": "A architect works in a", "top1_token": " studio", "top1_id": 11803, "top1_prob": 0.072536}
+{"prompt": "A taxi driver works in a", "top1_token": " taxi", "top1_id": 24928, "top1_prob": 0.099474}
+{"prompt": "A pharmacist works in a", "top1_token": " pharmacy", "top1_id": 33173, "top1_prob": 0.267529}
+{"prompt": "A receptionist works in a", "top1_token": " small", "top1_id": 1355, "top1_prob": 0.075859}
+{"prompt": "A painter works in a", "top1_token": " studio", "top1_id": 11803, "top1_prob": 0.324122}
+{"prompt": "A flight attendant works in a", "top1_token": " restaurant", "top1_id": 10301, "top1_prob": 0.044044}
+{"prompt": "A librarian assistant works in a", "top1_token": " library", "top1_id": 6335, "top1_prob": 0.435124}
+{"prompt": "A train conductor works on a", "top1_token": " train", "top1_id": 6194, "top1_prob": 0.284998}
+{"prompt": "A scientist works in a", "top1_token": " lab", "top1_id": 5188, "top1_prob": 0.348427}
+{"prompt": "A museum curator works in a", "top1_token": " museum", "top1_id": 16064, "top1_prob": 0.061072}
+{"prompt": "A journalist works in a", "top1_token": " news", "top1_id": 3668, "top1_prob": 0.096906}
+{"prompt": "A veterinarian works in a", "top1_token": " veterinary", "top1_id": 43248, "top1_prob": 0.094542}
+{"prompt": "A director works in a", "top1_token": " team", "top1_id": 2285, "top1_prob": 0.035704}
+{"prompt": "A pilot works in a", "top1_token": " field", "top1_id": 1673, "top1_prob": 0.031168}
+{"prompt": "A barista works in a", "top1_token": " coffee", "top1_id": 8574, "top1_prob": 0.39436}
+{"prompt": "A civil engineer works in a", "top1_token": " field", "top1_id": 1673, "top1_prob": 0.058051}
+{"prompt": "A carpenter works in a", "top1_token": " workshop", "top1_id": 22586, "top1_prob": 0.157886}
+{"prompt": "A cashier works in a", "top1_token": " supermarket", "top1_id": 39556, "top1_prob": 0.111845}
+{"prompt": "A actor works in a", "top1_token": " theater", "top1_id": 18876, "top1_prob": 0.060802}
+{"prompt": "A psychologist works in a", "top1_token": " private", "top1_id": 3055, "top1_prob": 0.057188}
+{"prompt": "A plumber works in a", "top1_token": " small", "top1_id": 1355, "top1_prob": 0.05498}
+{"prompt": "A fashion designer works in a", "top1_token": " studio", "top1_id": 11803, "top1_prob": 0.123025}
+{"prompt": "A waiter works in a", "top1_token": " restaurant", "top1_id": 10301, "top1_prob": 0.357525}
+{"prompt": "A dentist assistant works in a", "top1_token": " dental", "top1_id": 16138, "top1_prob": 0.408389}
+{"prompt": "A farmer works on a", "top1_token": " farm", "top1_id": 6389, "top1_prob": 0.14825}
+{"prompt": "A zookeeper works in a", "top1_token": " zoo", "top1_id": 41089, "top1_prob": 0.037614}
+{"prompt": "A electrical engineer works in a", "top1_token": " laboratory", "top1_id": 9965, "top1_prob": 0.129482}
+{"prompt": "A chef works in a", "top1_token": " kitchen", "top1_id": 8576, "top1_prob": 0.551953}
+{"prompt": "A editor works in a", "top1_token": " similar", "top1_id": 2074, "top1_prob": 0.071116}
+{"prompt": "A butcher works in a", "top1_token": " butcher", "top1_id": 45975, "top1_prob": 0.155572}
+{"prompt": "A baker works in a", "top1_token": " bak", "top1_id": 35246, "top1_prob": 0.260528}
+{"prompt": "A welder works in a", "top1_token": " welding", "top1_id": 34329, "top1_prob": 0.054752}
+{"prompt": "A programmer works in a", "top1_token": " team", "top1_id": 2285, "top1_prob": 0.053335}
+{"prompt": "A soldier works in a", "top1_token": " field", "top1_id": 1673, "top1_prob": 0.058452}
+{"prompt": "A surgeon works in a", "top1_token": " hospital", "top1_id": 4675, "top1_prob": 0.172395}
+{"prompt": "A lifeguard works at a", "top1_token": " beach", "top1_id": 11600, "top1_prob": 0.222879}
+{"prompt": "A construction worker works at a", "top1_token": " construction", "top1_id": 5140, "top1_prob": 0.3391}
+{"prompt": "A judge works in a", "top1_token": " courtroom", "top1_id": 34496, "top1_prob": 0.163363}
+{"prompt": "A dentist works in a", "top1_token": " dental", "top1_id": 16138, "top1_prob": 0.235404}
+{"prompt": "A doctor works in a", "top1_token": " hospital", "top1_id": 4675, "top1_prob": 0.437097}

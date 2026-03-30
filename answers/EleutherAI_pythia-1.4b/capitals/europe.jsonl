@@ -1,0 +1,20 @@
+{"prompt": "What is the capital of France? Answer:", "top1_token": " Paris", "top1_id": 7785, "top1_prob": 0.342962}
+{"prompt": "What is the capital of Germany? Answer:", "top1_token": " Berlin", "top1_id": 12911, "top1_prob": 0.339075}
+{"prompt": "What is the capital of Italy? Answer:", "top1_token": " Rome", "top1_id": 12300, "top1_prob": 0.391091}
+{"prompt": "What is the capital of Spain? Answer:", "top1_token": " Madrid", "top1_id": 21924, "top1_prob": 0.514026}
+{"prompt": "What is the capital of Portugal? Answer:", "top1_token": " Lisbon", "top1_id": 48104, "top1_prob": 0.530894}
+{"prompt": "What is the capital of Greece? Answer:", "top1_token": " Athens", "top1_id": 27411, "top1_prob": 0.24177}
+{"prompt": "What is the capital of Poland? Answer:", "top1_token": " Warsaw", "top1_id": 40431, "top1_prob": 0.271152}
+{"prompt": "What is the capital of Norway? Answer:", "top1_token": " Oslo", "top1_id": 43516, "top1_prob": 0.47536}
+{"prompt": "What is the capital of Sweden? Answer:", "top1_token": " Stockholm", "top1_id": 38476, "top1_prob": 0.626674}
+{"prompt": "What is the capital of Switzerland? Answer:", "top1_token": " Bern", "top1_id": 10246, "top1_prob": 0.220781}
+{"prompt": "What is the capital of Hungary? Answer:", "top1_token": " Budapest", "top1_id": 50086, "top1_prob": 0.483502}
+{"prompt": "What is the capital of Czech Republic? Answer:", "top1_token": " Prague", "top1_id": 41577, "top1_prob": 0.546245}
+{"prompt": "What is the capital of Slovakia? Answer:", "top1_token": " Br", "top1_id": 2652, "top1_prob": 0.462916}
+{"prompt": "What is the capital of Romania? Answer:", "top1_token": " Buch", "top1_id": 27907, "top1_prob": 0.517411}
+{"prompt": "What is the capital of Bulgaria? Answer:", "top1_token": " Sof", "top1_id": 36104, "top1_prob": 0.799701}
+{"prompt": "What is the capital of Croatia? Answer:", "top1_token": " Zag", "top1_id": 49524, "top1_prob": 0.423695}
+{"prompt": "What is the capital of Serbia? Answer:", "top1_token": " Bel", "top1_id": 6512, "top1_prob": 0.726545}
+{"prompt": "What is the capital of Ukraine? Answer:", "top1_token": " K", "top1_id": 611, "top1_prob": 0.228693}
+{"prompt": "What is the capital of Lithuania? Answer:", "top1_token": " Vil", "top1_id": 40936, "top1_prob": 0.854083}
+{"prompt": "What is the capital of Latvia? Answer:", "top1_token": " R", "top1_id": 416, "top1_prob": 0.294486}

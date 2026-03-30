@@ -1,0 +1,32 @@
+{"prompt": "The medical field that treats the heart is called", "top1_token": " cardi", "top1_id": 5900, "top1_prob": 0.435409}
+{"prompt": "The medical field that treats the brain is called", "top1_token": " neuro", "top1_id": 6551, "top1_prob": 0.609726}
+{"prompt": "The medical field that treats the skin is called", "top1_token": " dermat", "top1_id": 29863, "top1_prob": 0.725088}
+{"prompt": "The medical field that treats the bones is called", "top1_token": " orth", "top1_id": 9373, "top1_prob": 0.271271}
+{"prompt": "The medical field that treats the eyes is called", "top1_token": " ophthal", "top1_id": 39109, "top1_prob": 0.503724}
+{"prompt": "The medical field that treats the ears is called", "top1_token": " ot", "top1_id": 14366, "top1_prob": 0.455855}
+{"prompt": "The medical field that treats the lungs is called", "top1_token": " pul", "top1_id": 4734, "top1_prob": 0.287608}
+{"prompt": "The medical field that treats the kidneys is called", "top1_token": " neph", "top1_id": 23416, "top1_prob": 0.79238}
+{"prompt": "The medical field that treats the stomach is called", "top1_token": " gastro", "top1_id": 16971, "top1_prob": 0.176004}
+{"prompt": "The medical field that treats the liver is called", "top1_token": " hepat", "top1_id": 11836, "top1_prob": 0.509836}
+{"prompt": "The medical field that treats the immune system is called", "top1_token": " immun", "top1_id": 2984, "top1_prob": 0.513469}
+{"prompt": "The medical field that treats the hormones is called", "top1_token": " end", "top1_id": 990, "top1_prob": 0.381373}
+{"prompt": "The medical field that treats the teeth is called", "top1_token": " dent", "top1_id": 13822, "top1_prob": 0.249175}
+{"prompt": "The medical field that treats the gums is called", "top1_token": " period", "top1_id": 2180, "top1_prob": 0.27735}
+{"prompt": "The medical field that treats the joints is called", "top1_token": " rheumat", "top1_id": 31747, "top1_prob": 0.243562}
+{"prompt": "The medical field that treats the nervous system is called", "top1_token": " neurolog", "top1_id": 15674, "top1_prob": 0.568374}
+{"prompt": "The medical field that treats the reproductive system is called", "top1_token": " gy", "top1_id": 19859, "top1_prob": 0.332862}
+{"prompt": "The medical field that treats pregnancy is called", "top1_token": " obstetric", "top1_id": 49161, "top1_prob": 0.518122}
+{"prompt": "The medical field that treats children is called", "top1_token": " pediatric", "top1_id": 19170, "top1_prob": 0.690295}
+{"prompt": "The medical field that treats mental disorders is called", "top1_token": " psychiat", "top1_id": 24414, "top1_prob": 0.460899}
+{"prompt": "The medical field that treats tumors is called", "top1_token": " onc", "top1_id": 18695, "top1_prob": 0.482585}
+{"prompt": "The medical field that treats allergies is called", "top1_token": " All", "top1_id": 1876, "top1_prob": 0.341636}
+{"prompt": "The medical field that treats the digestive system is called", "top1_token": " gastro", "top1_id": 16971, "top1_prob": 0.525178}
+{"prompt": "The medical field that treats the urinary system is called", "top1_token": " u", "top1_id": 1484, "top1_prob": 0.723578}
+{"prompt": "The medical field that treats the thyroid is called", "top1_token": " end", "top1_id": 990, "top1_prob": 0.320466}
+{"prompt": "The medical field that treats the prostate is called", "top1_token": " u", "top1_id": 1484, "top1_prob": 0.299117}
+{"prompt": "The medical field that treats the female reproductive organs is called", "top1_token": " gy", "top1_id": 19859, "top1_prob": 0.510035}
+{"prompt": "The medical field that treats the male reproductive organs is called", "top1_token": " u", "top1_id": 1484, "top1_prob": 0.51674}
+{"prompt": "The medical field that treats the feet is called", "top1_token": " pod", "top1_id": 7360, "top1_prob": 0.935823}
+{"prompt": "The medical field that treats sleep disorders is called", "top1_token": " sleep", "top1_id": 4600, "top1_prob": 0.524346}
+{"prompt": "The medical field that treats the elderly is called", "top1_token": " ger", "top1_id": 21974, "top1_prob": 0.75957}
+{"prompt": "The medical field that treats cancer is called", "top1_token": " onc", "top1_id": 18695, "top1_prob": 0.624497}

@@ -1,0 +1,165 @@
+{"prompt": "The ISO country code for Somalia is", "top1_token": " SO", "top1_id": 8717, "top1_prob": 0.413799}
+{"prompt": "The ISO country code for Bolivia is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.379551}
+{"prompt": "The ISO country code for Ireland is", "top1_token": " I", "top1_id": 309, "top1_prob": 0.165565}
+{"prompt": "The ISO country code for Macao is", "top1_token": " Mac", "top1_id": 5602, "top1_prob": 0.195764}
+{"prompt": "The ISO country code for Eswatini is", "top1_token": " E", "top1_id": 444, "top1_prob": 0.130658}
+{"prompt": "The ISO country code for Japan is", "top1_token": " JP", "top1_id": 24144, "top1_prob": 0.460375}
+{"prompt": "The ISO country code for Norway is", "top1_token": " NO", "top1_id": 7651, "top1_prob": 0.436304}
+{"prompt": "The ISO country code for Haiti is", "top1_token": " HT", "top1_id": 9235, "top1_prob": 0.385977}
+{"prompt": "The ISO country code for Greenland is", "top1_token": " GS", "top1_id": 28611, "top1_prob": 0.108004}
+{"prompt": "The ISO country code for Moldova is", "top1_token": " MD", "top1_id": 10399, "top1_prob": 0.113658}
+{"prompt": "The ISO country code for Libya is", "top1_token": " Libya", "top1_id": 30174, "top1_prob": 0.375639}
+{"prompt": "The ISO country code for Honduras is", "top1_token": " HN", "top1_id": 30792, "top1_prob": 0.317562}
+{"prompt": "The ISO country code for Bhutan is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.244901}
+{"prompt": "The ISO country code for Thailand is", "top1_token": " TH", "top1_id": 4392, "top1_prob": 0.668029}
+{"prompt": "The ISO country code for Guatemala is", "top1_token": " GU", "top1_id": 31844, "top1_prob": 0.303416}
+{"prompt": "The ISO country code for Venezuela is", "top1_token": " VE", "top1_id": 16197, "top1_prob": 0.374894}
+{"prompt": "The ISO country code for Solomon Islands is", "top1_token": " SI", "top1_id": 17862, "top1_prob": 0.47614}
+{"prompt": "The ISO country code for Mongolia is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.208816}
+{"prompt": "The ISO country code for Hungary is", "top1_token": " HU", "top1_id": 32037, "top1_prob": 0.858}
+{"prompt": "The ISO country code for Panama is", "top1_token": " PA", "top1_id": 8010, "top1_prob": 0.520165}
+{"prompt": "The ISO country code for Malawi is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.263805}
+{"prompt": "The ISO country code for Trinidad and Tobago is", "top1_token": " TT", "top1_id": 26909, "top1_prob": 0.49789}
+{"prompt": "The ISO country code for Bulgaria is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.237262}
+{"prompt": "The ISO country code for Ethiopia is", "top1_token": " ET", "top1_id": 17464, "top1_prob": 0.517873}
+{"prompt": "The ISO country code for Portugal is", "top1_token": " PT", "top1_id": 10622, "top1_prob": 0.277271}
+{"prompt": "The ISO country code for South Africa is", "top1_token": " SA", "top1_id": 12041, "top1_prob": 0.625865}
+{"prompt": "The ISO country code for Cambodia is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.273872}
+{"prompt": "The ISO country code for Luxembourg is", "top1_token": " L", "top1_id": 418, "top1_prob": 0.30695}
+{"prompt": "The ISO country code for Tonga is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.261481}
+{"prompt": "The ISO country code for Kosovo is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.392421}
+{"prompt": "The ISO country code for Lithuania is", "top1_token": " LT", "top1_id": 26124, "top1_prob": 0.610459}
+{"prompt": "The ISO country code for Slovakia is", "top1_token": " SK", "top1_id": 18460, "top1_prob": 0.677402}
+{"prompt": "The ISO country code for Madagascar is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.223327}
+{"prompt": "The ISO country code for India is", "top1_token": " IN", "top1_id": 2949, "top1_prob": 0.497942}
+{"prompt": "The ISO country code for Ecuador is", "top1_token": " EC", "top1_id": 13507, "top1_prob": 0.585388}
+{"prompt": "The ISO country code for Dominican Republic is", "top1_token": " DR", "top1_id": 10710, "top1_prob": 0.35546}
+{"prompt": "The ISO country code for Andorra is", "top1_token": " AND", "top1_id": 4889, "top1_prob": 0.324516}
+{"prompt": "The ISO country code for Cameroon is", "top1_token": " C", "top1_id": 330, "top1_prob": 0.167129}
+{"prompt": "The ISO country code for Afghanistan is", "top1_token": " AF", "top1_id": 11854, "top1_prob": 0.458927}
+{"prompt": "The ISO country code for Serbia is", "top1_token": " SR", "top1_id": 12938, "top1_prob": 0.738406}
+{"prompt": "The ISO country code for Netherlands is", "top1_token": " NL", "top1_id": 27218, "top1_prob": 0.39489}
+{"prompt": "The ISO country code for United States is", "top1_token": " US", "top1_id": 1982, "top1_prob": 0.473369}
+{"prompt": "The ISO country code for Malaysia is", "top1_token": " MY", "top1_id": 17450, "top1_prob": 0.480491}
+{"prompt": "The ISO country code for Taiwan is", "top1_token": " TW", "top1_id": 30694, "top1_prob": 0.571457}
+{"prompt": "The ISO country code for United Arab Emirates is", "top1_token": " AE", "top1_id": 29946, "top1_prob": 0.315188}
+{"prompt": "The ISO country code for Tunisia is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.225668}
+{"prompt": "The ISO country code for Rwanda is", "top1_token": " R", "top1_id": 416, "top1_prob": 0.346577}
+{"prompt": "The ISO country code for Sri Lanka is", "top1_token": " SL", "top1_id": 14532, "top1_prob": 0.346008}
+{"prompt": "The ISO country code for Switzerland is", "top1_token": " CH", "top1_id": 5642, "top1_prob": 0.464382}
+{"prompt": "The ISO country code for Namibia is", "top1_token": " Nam", "top1_id": 20635, "top1_prob": 0.148333}
+{"prompt": "The ISO country code for Qatar is", "top1_token": " Q", "top1_id": 1165, "top1_prob": 0.785365}
+{"prompt": "The ISO country code for Mali is", "top1_token": " ML", "top1_id": 13993, "top1_prob": 0.283324}
+{"prompt": "The ISO country code for Belarus is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.251382}
+{"prompt": "The ISO country code for Argentina is", "top1_token": " AR", "top1_id": 6647, "top1_prob": 0.912962}
+{"prompt": "The ISO country code for Morocco is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.164715}
+{"prompt": "The ISO country code for South Korea is", "top1_token": " KR", "top1_id": 38457, "top1_prob": 0.322745}
+{"prompt": "The ISO country code for Palau is", "top1_token": " PAL", "top1_id": 47175, "top1_prob": 0.245967}
+{"prompt": "The ISO country code for Estonia is", "top1_token": " EE", "top1_id": 14939, "top1_prob": 0.480295}
+{"prompt": "The ISO country code for Pakistan is", "top1_token": " PK", "top1_id": 15128, "top1_prob": 0.40368}
+{"prompt": "The ISO country code for Bahamas is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.369254}
+{"prompt": "The ISO country code for Azerbaijan is", "top1_token": " AZ", "top1_id": 30874, "top1_prob": 0.201949}
+{"prompt": "The ISO country code for Canada is", "top1_token": " CA", "top1_id": 6582, "top1_prob": 0.532318}
+{"prompt": "The ISO country code for Turkey is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.402627}
+{"prompt": "The ISO country code for Laos is", "top1_token": " LA", "top1_id": 12226, "top1_prob": 0.139129}
+{"prompt": "The ISO country code for Cuba is", "top1_token": " C", "top1_id": 330, "top1_prob": 0.255715}
+{"prompt": "The ISO country code for Kenya is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.551033}
+{"prompt": "The ISO country code for Nauru is", "top1_token": " N", "top1_id": 427, "top1_prob": 0.24926}
+{"prompt": "The ISO country code for Singapore is", "top1_token": " SG", "top1_id": 29911, "top1_prob": 0.395352}
+{"prompt": "The ISO country code for Ivory Coast is", "top1_token": " C", "top1_id": 330, "top1_prob": 0.43515}
+{"prompt": "The ISO country code for Israel is", "top1_token": " IS", "top1_id": 4110, "top1_prob": 0.379288}
+{"prompt": "The ISO country code for Bangladesh is", "top1_token": " BD", "top1_id": 21102, "top1_prob": 0.580432}
+{"prompt": "The ISO country code for Nepal is", "top1_token": " Nepal", "top1_id": 35020, "top1_prob": 0.342289}
+{"prompt": "The ISO country code for Micronesia is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.116482}
+{"prompt": "The ISO country code for France is", "top1_token": " FR", "top1_id": 7499, "top1_prob": 0.376217}
+{"prompt": "The ISO country code for Nigeria is", "top1_token": " N", "top1_id": 427, "top1_prob": 0.387815}
+{"prompt": "The ISO country code for Suriname is", "top1_token": " S", "top1_id": 322, "top1_prob": 0.355088}
+{"prompt": "The ISO country code for Jamaica is", "top1_token": " J", "top1_id": 500, "top1_prob": 0.62264}
+{"prompt": "The ISO country code for Liechtenstein is", "top1_token": " L", "top1_id": 418, "top1_prob": 0.321256}
+{"prompt": "The ISO country code for Democratic Republic of the Congo is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.232747}
+{"prompt": "The ISO country code for Mexico is", "top1_token": " MX", "top1_id": 42311, "top1_prob": 0.479521}
+{"prompt": "The ISO country code for Algeria is", "top1_token": " AL", "top1_id": 6589, "top1_prob": 0.736279}
+{"prompt": "The ISO country code for Romania is", "top1_token": " RO", "top1_id": 16636, "top1_prob": 0.614231}
+{"prompt": "The ISO country code for Barbados is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.296031}
+{"prompt": "The ISO country code for Kiribati is", "top1_token": " Kir", "top1_id": 20799, "top1_prob": 0.353625}
+{"prompt": "The ISO country code for Montenegro is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.346925}
+{"prompt": "The ISO country code for Hong Kong is", "top1_token": " HK", "top1_id": 39827, "top1_prob": 0.926292}
+{"prompt": "The ISO country code for Albania is", "top1_token": " AL", "top1_id": 6589, "top1_prob": 0.554284}
+{"prompt": "The ISO country code for Uruguay is", "top1_token": " U", "top1_id": 530, "top1_prob": 0.350085}
+{"prompt": "The ISO country code for Spain is", "top1_token": " ES", "top1_id": 15459, "top1_prob": 0.56122}
+{"prompt": "The ISO country code for Kyrgyzstan is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.712023}
+{"prompt": "The ISO country code for Vanuatu is", "top1_token": " V", "top1_id": 657, "top1_prob": 0.462127}
+{"prompt": "The ISO country code for Greece is", "top1_token": " GR", "top1_id": 9942, "top1_prob": 0.216609}
+{"prompt": "The ISO country code for Belize is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.692475}
+{"prompt": "The ISO country code for Papua New Guinea is", "top1_token": " PNG", "top1_id": 42288, "top1_prob": 0.570292}
+{"prompt": "The ISO country code for El Salvador is", "top1_token": " ES", "top1_id": 15459, "top1_prob": 0.185945}
+{"prompt": "The ISO country code for Eritrea is", "top1_token": " ER", "top1_id": 7220, "top1_prob": 0.365535}
+{"prompt": "The ISO country code for Costa Rica is", "top1_token": " CR", "top1_id": 6246, "top1_prob": 0.826426}
+{"prompt": "The ISO country code for Nicaragua is", "top1_token": " CN", "top1_id": 18526, "top1_prob": 0.218041}
+{"prompt": "The ISO country code for Gabon is", "top1_token": " G", "top1_id": 443, "top1_prob": 0.186383}
+{"prompt": "The ISO country code for Indonesia is", "top1_token": " ID", "top1_id": 5417, "top1_prob": 0.354218}
+{"prompt": "The ISO country code for Latvia is", "top1_token": " LV", "top1_id": 19713, "top1_prob": 0.594825}
+{"prompt": "The ISO country code for Mauritius is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.301201}
+{"prompt": "The ISO country code for Brazil is", "top1_token": " BR", "top1_id": 11324, "top1_prob": 0.814431}
+{"prompt": "The ISO country code for Mozambique is", "top1_token": " MO", "top1_id": 14789, "top1_prob": 0.292197}
+{"prompt": "The ISO country code for United Kingdom is", "top1_token": " UK", "top1_id": 5591, "top1_prob": 0.505299}
+{"prompt": "The ISO country code for Monaco is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.243188}
+{"prompt": "The ISO country code for Ukraine is", "top1_token": " U", "top1_id": 530, "top1_prob": 0.257175}
+{"prompt": "The ISO country code for Czech Republic is", "top1_token": " CR", "top1_id": 6246, "top1_prob": 0.28164}
+{"prompt": "The ISO country code for Sudan is", "top1_token": " SD", "top1_id": 7388, "top1_prob": 0.25971}
+{"prompt": "The ISO country code for Botswana is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.366167}
+{"prompt": "The ISO country code for Djibouti is", "top1_token": " D", "top1_id": 399, "top1_prob": 0.183594}
+{"prompt": "The ISO country code for Paraguay is", "top1_token": " PA", "top1_id": 8010, "top1_prob": 0.147575}
+{"prompt": "The ISO country code for Germany is", "top1_token": " DE", "top1_id": 6202, "top1_prob": 0.796652}
+{"prompt": "The ISO country code for Sweden is", "top1_token": " SE", "top1_id": 6725, "top1_prob": 0.409925}
+{"prompt": "The ISO country code for Cyprus is", "top1_token": " CY", "top1_id": 36571, "top1_prob": 0.341129}
+{"prompt": "The ISO country code for Tanzania is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.779221}
+{"prompt": "The ISO country code for Italy is", "top1_token": " IT", "top1_id": 8017, "top1_prob": 0.92617}
+{"prompt": "The ISO country code for Uganda is", "top1_token": " U", "top1_id": 530, "top1_prob": 0.331587}
+{"prompt": "The ISO country code for New Zealand is", "top1_token": " NZ", "top1_id": 40986, "top1_prob": 0.851541}
+{"prompt": "The ISO country code for Turkmenistan is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.398459}
+{"prompt": "The ISO country code for Colombia is", "top1_token": " CO", "top1_id": 6392, "top1_prob": 0.571417}
+{"prompt": "The ISO country code for Peru is", "top1_token": " PER", "top1_id": 23564, "top1_prob": 0.388553}
+{"prompt": "The ISO country code for Kazakhstan is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.346392}
+{"prompt": "The ISO country code for Slovenia is", "top1_token": " SL", "top1_id": 14532, "top1_prob": 0.385778}
+{"prompt": "The ISO country code for Saudi Arabia is", "top1_token": " SA", "top1_id": 12041, "top1_prob": 0.689005}
+{"prompt": "The ISO country code for Denmark is", "top1_token": " DEN", "top1_id": 25387, "top1_prob": 0.427777}
+{"prompt": "The ISO country code for Kuwait is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.56614}
+{"prompt": "The ISO country code for Lesotho is", "top1_token": "  ", "top1_id": 50276, "top1_prob": 0.158075}
+{"prompt": "The ISO country code for Belgium is", "top1_token": " BE", "top1_id": 8728, "top1_prob": 0.671834}
+{"prompt": "The ISO country code for San Marino is", "top1_token": " SM", "top1_id": 9947, "top1_prob": 0.237235}
+{"prompt": "The ISO country code for Iceland is", "top1_token": " IS", "top1_id": 4110, "top1_prob": 0.602388}
+{"prompt": "The ISO country code for Senegal is", "top1_token": " SN", "top1_id": 7167, "top1_prob": 0.265181}
+{"prompt": "The ISO country code for Vatican City is", "top1_token": " Vatican", "top1_id": 33411, "top1_prob": 0.200063}
+{"prompt": "The ISO country code for Georgia is", "top1_token": " GE", "top1_id": 21430, "top1_prob": 0.706485}
+{"prompt": "The ISO country code for Chad is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.180055}
+{"prompt": "The ISO country code for Marshall Islands is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.140788}
+{"prompt": "The ISO country code for Austria is", "top1_token": " AT", "top1_id": 4915, "top1_prob": 0.342525}
+{"prompt": "The ISO country code for Ghana is", "top1_token": " G", "top1_id": 443, "top1_prob": 0.303101}
+{"prompt": "The ISO country code for Malta is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.425655}
+{"prompt": "The ISO country code for Uzbekistan is", "top1_token": " U", "top1_id": 530, "top1_prob": 0.381225}
+{"prompt": "The ISO country code for Chile is", "top1_token": " CL", "top1_id": 8951, "top1_prob": 0.451923}
+{"prompt": "The ISO country code for Vietnam is", "top1_token": " V", "top1_id": 657, "top1_prob": 0.408479}
+{"prompt": "The ISO country code for Tajikistan is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.396587}
+{"prompt": "The ISO country code for Croatia is", "top1_token": " HR", "top1_id": 10728, "top1_prob": 0.681784}
+{"prompt": "The ISO country code for Myanmar is", "top1_token": " M", "top1_id": 353, "top1_prob": 0.351012}
+{"prompt": "The ISO country code for Philippines is", "top1_token": " PH", "top1_id": 8367, "top1_prob": 0.712406}
+{"prompt": "The ISO country code for China is", "top1_token": " CN", "top1_id": 18526, "top1_prob": 0.576727}
+{"prompt": "The ISO country code for Guyana is", "top1_token": " GU", "top1_id": 31844, "top1_prob": 0.234166}
+{"prompt": "The ISO country code for Bosnia and Herzegovina is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.457472}
+{"prompt": "The ISO country code for Egypt is", "top1_token": " EG", "top1_id": 36610, "top1_prob": 0.19641}
+{"prompt": "The ISO country code for Tuvalu is", "top1_token": " T", "top1_id": 308, "top1_prob": 0.423485}
+{"prompt": "The ISO country code for Finland is", "top1_token": " FIN", "top1_id": 36121, "top1_prob": 0.710721}
+{"prompt": "The ISO country code for Niger is", "top1_token": " N", "top1_id": 427, "top1_prob": 0.295259}
+{"prompt": "The ISO country code for Zambia is", "top1_token": " Z", "top1_id": 1503, "top1_prob": 0.866663}
+{"prompt": "The ISO country code for Armenia is", "top1_token": " AR", "top1_id": 6647, "top1_prob": 0.146079}
+{"prompt": "The ISO country code for Seychelles is", "top1_token": " SC", "top1_id": 10011, "top1_prob": 0.221155}
+{"prompt": "The ISO country code for Angola is", "top1_token": " A", "top1_id": 329, "top1_prob": 0.291378}
+{"prompt": "The ISO country code for Poland is", "top1_token": " PL", "top1_id": 11188, "top1_prob": 0.49946}
+{"prompt": "The ISO country code for Australia is", "top1_token": " A", "top1_id": 329, "top1_prob": 0.35216}
+{"prompt": "The ISO country code for Congo is", "top1_token": " K", "top1_id": 611, "top1_prob": 0.409588}
+{"prompt": "The ISO country code for Zimbabwe is", "top1_token": " Z", "top1_id": 1503, "top1_prob": 0.87615}
+{"prompt": "The ISO country code for Burundi is", "top1_token": " B", "top1_id": 378, "top1_prob": 0.645417}
+{"prompt": "The ISO country code for North Macedonia is", "top1_token": " MK", "top1_id": 27070, "top1_prob": 0.147443}
+{"prompt": "The ISO country code for Samoa is", "top1_token": " SO", "top1_id": 8717, "top1_prob": 0.325766}
+{"prompt": "The ISO country code for Fiji is", "top1_token": " F", "top1_id": 401, "top1_prob": 0.410709}

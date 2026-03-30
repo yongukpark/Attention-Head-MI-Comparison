@@ -1,0 +1,13 @@
+{"prompt": "The HTTP status code for 'Not Found' is '", "top1_token": "404", "top1_id": 20611, "top1_prob": 0.645717}
+{"prompt": "The HTTP status code for 'Forbidden' is '", "top1_token": "403", "top1_id": 25208, "top1_prob": 0.787761}
+{"prompt": "The HTTP status code for 'Unauthorized' is '", "top1_token": "401", "top1_id": 25797, "top1_prob": 0.879641}
+{"prompt": "The HTTP status code for 'Bad Request' is '", "top1_token": "400", "top1_id": 8320, "top1_prob": 0.616046}
+{"prompt": "The HTTP status code for 'Too Many Requests' is '", "top1_token": "429", "top1_id": 34637, "top1_prob": 0.658619}
+{"prompt": "The HTTP status code for 'Internal Server Error' is '", "top1_token": "500", "top1_id": 5388, "top1_prob": 0.659441}
+{"prompt": "The HTTP status code for 'Service Unavailable' is '", "top1_token": "503", "top1_id": 26906, "top1_prob": 0.500565}
+{"prompt": "The HTTP status code for 'Conflict' is '", "top1_token": "409", "top1_id": 24264, "top1_prob": 0.122479}
+{"prompt": "The HTTP status code for 'Payload Too Large' is '", "top1_token": "413", "top1_id": 37012, "top1_prob": 0.388124}
+{"prompt": "The HTTP status code for 'Unsupported Media Type' is '", "top1_token": "415", "top1_id": 30977, "top1_prob": 0.259737}
+{"prompt": "The HTTP status code for 'Continue' is '", "top1_token": "100", "top1_id": 2313, "top1_prob": 0.151275}
+{"prompt": "The HTTP status code for 'OK' is '", "top1_token": "200", "top1_id": 1518, "top1_prob": 0.799275}
+{"prompt": "The HTTP status code for 'Created' is '", "top1_token": "201", "top1_id": 1252, "top1_prob": 0.559525}

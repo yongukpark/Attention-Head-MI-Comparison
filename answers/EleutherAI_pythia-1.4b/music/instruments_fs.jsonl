@@ -1,0 +1,36 @@
+{"prompt": "Violin is a string instrument. Erhu is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.281286}
+{"prompt": "Violin is a string instrument. Talking drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.181138}
+{"prompt": "Violin is a string instrument. Ukulele is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.478411}
+{"prompt": "Violin is a string instrument. Steel drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.151416}
+{"prompt": "Violin is a string instrument. Oboe is a", "top1_token": " wind", "top1_id": 5448, "top1_prob": 0.141756}
+{"prompt": "Violin is a string instrument. Sitar is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.421885}
+{"prompt": "Violin is a string instrument. Trombone is a", "top1_token": " brass", "top1_id": 27188, "top1_prob": 0.122617}
+{"prompt": "Violin is a string instrument. Tabla is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.222977}
+{"prompt": "Violin is a string instrument. Pipa is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.074571}
+{"prompt": "Violin is a string instrument. Bass drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.178287}
+{"prompt": "Violin is a string instrument. Banjo is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.571771}
+{"prompt": "Violin is a string instrument. Drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.376885}
+{"prompt": "Violin is a string instrument. Cello is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.387516}
+{"prompt": "Violin is a string instrument. Saxophone is a", "top1_token": " wind", "top1_id": 5448, "top1_prob": 0.130953}
+{"prompt": "Violin is a string instrument. Double bass is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.251227}
+{"prompt": "Violin is a string instrument. Snare drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.20156}
+{"prompt": "Violin is a string instrument. Guitar is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.5435}
+{"prompt": "Violin is a string instrument. Marimba is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.475045}
+{"prompt": "Violin is a string instrument. Viola is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.266312}
+{"prompt": "Violin is a string instrument. Harpsichord is a", "top1_token": " keyboard", "top1_id": 15487, "top1_prob": 0.240228}
+{"prompt": "Violin is a string instrument. Lute is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.23864}
+{"prompt": "Violin is a string instrument. Djembe is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.218529}
+{"prompt": "Violin is a string instrument. Mandolin is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.544148}
+{"prompt": "Violin is a string instrument. Timpani is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.210695}
+{"prompt": "Violin is a string instrument. Grand piano is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.279576}
+{"prompt": "Violin is a string instrument. Trumpet is a", "top1_token": " brass", "top1_id": 27188, "top1_prob": 0.180517}
+{"prompt": "Violin is a string instrument. Zither is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.406229}
+{"prompt": "Violin is a string instrument. Bongos is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.215763}
+{"prompt": "Violin is a string instrument. Balalaika is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.327087}
+{"prompt": "Violin is a string instrument. Tambourine is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.161856}
+{"prompt": "Violin is a string instrument. Piano is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.192338}
+{"prompt": "Violin is a string instrument. Harmonica is a", "top1_token": " wind", "top1_id": 5448, "top1_prob": 0.089234}
+{"prompt": "Violin is a string instrument. Lyre is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.243716}
+{"prompt": "Violin is a string instrument. Frame drum is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.112094}
+{"prompt": "Violin is a string instrument. Harp is a", "top1_token": " string", "top1_id": 2876, "top1_prob": 0.461205}
+{"prompt": "Violin is a string instrument. Conga is a", "top1_token": " percussion", "top1_id": 49298, "top1_prob": 0.131084}

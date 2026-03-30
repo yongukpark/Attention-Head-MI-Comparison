@@ -1,0 +1,41 @@
+{"prompt": "The default port for Redis is", "top1_token": " 6", "top1_id": 721, "top1_prob": 0.884537}
+{"prompt": "The default port for SSH is", "top1_token": " 22", "top1_id": 3307, "top1_prob": 0.760768}
+{"prompt": "An LDAP directory service listens on port", "top1_token": " 389", "top1_id": 36206, "top1_prob": 0.523162}
+{"prompt": "The default port for HTTPS is", "top1_token": " 443", "top1_id": 34790, "top1_prob": 0.745429}
+{"prompt": "A Docker registry service listens on port", "top1_token": " 5000", "top1_id": 29067, "top1_prob": 0.236922}
+{"prompt": "A MySQL database server listens on port", "top1_token": " 3", "top1_id": 495, "top1_prob": 0.712784}
+{"prompt": "An SMTP mail transfer server listens on port", "top1_token": " 25", "top1_id": 2030, "top1_prob": 0.897523}
+{"prompt": "The default port for FTP is", "top1_token": " 21", "top1_id": 3127, "top1_prob": 0.468074}
+{"prompt": "A web server using HTTP typically listens on port", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.925881}
+{"prompt": "A DNS name server listens on port", "top1_token": " 53", "top1_id": 8676, "top1_prob": 0.894897}
+{"prompt": "The default port for LDAPS is", "top1_token": " 636", "top1_id": 49921, "top1_prob": 0.055114}
+{"prompt": "The default port for Microsoft SQL Server is", "top1_token": " 14", "top1_id": 1638, "top1_prob": 0.764124}
+{"prompt": "A Memcached caching server listens on port", "top1_token": " 112", "top1_id": 11633, "top1_prob": 0.646788}
+{"prompt": "An SMB file sharing service listens on port", "top1_token": " 445", "top1_id": 38848, "top1_prob": 0.101323}
+{"prompt": "The default port for HTTP is", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.656722}
+{"prompt": "The default port for SMB is", "top1_token": " 445", "top1_id": 38848, "top1_prob": 0.514181}
+{"prompt": "An Apache web server typically listens on port", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.964973}
+{"prompt": "The default port for LDAP is", "top1_token": " 389", "top1_id": 36206, "top1_prob": 0.412042}
+{"prompt": "A DHCP server listens on port", "top1_token": " 67", "top1_id": 9963, "top1_prob": 0.331453}
+{"prompt": "An IMAP mail access server listens on port", "top1_token": " 143", "top1_id": 21445, "top1_prob": 0.557255}
+{"prompt": "A Redis in-memory database listens on port", "top1_token": " 6", "top1_id": 721, "top1_prob": 0.340535}
+{"prompt": "The default port for PostgreSQL is", "top1_token": " 54", "top1_id": 8255, "top1_prob": 0.648466}
+{"prompt": "The default port for DNS is", "top1_token": " 53", "top1_id": 8676, "top1_prob": 0.673048}
+{"prompt": "A PostgreSQL database server listens on port", "top1_token": " 54", "top1_id": 8255, "top1_prob": 0.895323}
+{"prompt": "A VNC remote desktop server listens on port", "top1_token": " 59", "top1_id": 8978, "top1_prob": 0.822535}
+{"prompt": "The default port for MongoDB is", "top1_token": " 27", "top1_id": 3435, "top1_prob": 0.339942}
+{"prompt": "The default port for Nginx HTTP server is", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.75554}
+{"prompt": "The default port for VNC is", "top1_token": " 59", "top1_id": 8978, "top1_prob": 0.514882}
+{"prompt": "The default port for Apache HTTP server is", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.819101}
+{"prompt": "A syslog logging server listens on port", "top1_token": " 514", "top1_id": 40633, "top1_prob": 0.580261}
+{"prompt": "A Grafana monitoring dashboard listens on port", "top1_token": " 3000", "top1_id": 27295, "top1_prob": 0.251358}
+{"prompt": "A MongoDB database server listens on port", "top1_token": " 27", "top1_id": 3435, "top1_prob": 0.396294}
+{"prompt": "The default port for Memcached is", "top1_token": " 112", "top1_id": 11633, "top1_prob": 0.1369}
+{"prompt": "The default port for Syslog is", "top1_token": " 514", "top1_id": 40633, "top1_prob": 0.232102}
+{"prompt": "A secure web server using HTTPS typically listens on port", "top1_token": " 443", "top1_id": 34790, "top1_prob": 0.894159}
+{"prompt": "An SSH remote login server listens on port", "top1_token": " 22", "top1_id": 3307, "top1_prob": 0.655394}
+{"prompt": "An FTP file transfer server listens on port", "top1_token": " 21", "top1_id": 3127, "top1_prob": 0.667739}
+{"prompt": "The default port for SNMP is", "top1_token": " 161", "top1_id": 22761, "top1_prob": 0.227871}
+{"prompt": "The default port for SMTP is", "top1_token": " 25", "top1_id": 2030, "top1_prob": 0.745709}
+{"prompt": "The default port for MySQL is", "top1_token": " 3", "top1_id": 495, "top1_prob": 0.815861}
+{"prompt": "An Nginx web server typically listens on port", "top1_token": " 80", "top1_id": 5096, "top1_prob": 0.900317}

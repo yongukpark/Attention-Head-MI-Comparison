@@ -1,0 +1,7 @@
+{"prompt": "What is the capital of Solomon Islands? Answer:", "top1_token": " Hon", "top1_id": 10916, "top1_prob": 0.091732}
+{"prompt": "What is the capital of Vanuatu? Answer:", "top1_token": " Port", "top1_id": 6162, "top1_prob": 0.112146}
+{"prompt": "What is the capital of Tonga? Answer:", "top1_token": " N", "top1_id": 427, "top1_prob": 0.166959}
+{"prompt": "What is the capital of Australia? Answer:", "top1_token": " Melbourne", "top1_id": 21818, "top1_prob": 0.137545}
+{"prompt": "What is the capital of New Zealand? Answer:", "top1_token": " Wellington", "top1_id": 42337, "top1_prob": 0.326987}
+{"prompt": "What is the capital of Papua New Guinea? Answer:", "top1_token": " Port", "top1_id": 6162, "top1_prob": 0.231205}
+{"prompt": "What is the capital of Fiji? Answer:", "top1_token": " Su", "top1_id": 4137, "top1_prob": 0.380911}

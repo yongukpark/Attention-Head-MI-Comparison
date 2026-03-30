@@ -1,0 +1,25 @@
+{"prompt": "The home stadium of Manchester United is the", "top1_token": " Old", "top1_id": 8937, "top1_prob": 0.603438}
+{"prompt": "The home stadium of Liverpool is the", "top1_token": " An", "top1_id": 743, "top1_prob": 0.842579}
+{"prompt": "The home stadium of Arsenal is the", "top1_token": " Emirates", "top1_id": 47229, "top1_prob": 0.769689}
+{"prompt": "The home stadium of Chelsea is the", "top1_token": " St", "top1_id": 659, "top1_prob": 0.800299}
+{"prompt": "The home stadium of Barcelona is the", "top1_token": " Camp", "top1_id": 8647, "top1_prob": 0.686372}
+{"prompt": "The home stadium of Real Madrid is the", "top1_token": " Santiago", "top1_id": 38436, "top1_prob": 0.31842}
+{"prompt": "The home stadium of Bayern Munich is the", "top1_token": " All", "top1_id": 1876, "top1_prob": 0.781335}
+{"prompt": "The home stadium of Borussia Dortmund is the", "top1_token": " O", "top1_id": 473, "top1_prob": 0.127108}
+{"prompt": "The home stadium of AC Milan is the", "top1_token": " San", "top1_id": 5003, "top1_prob": 0.488593}
+{"prompt": "The home stadium of Juventus is the", "top1_token": " St", "top1_id": 659, "top1_prob": 0.61293}
+{"prompt": "The home stadium of New York Yankees is the", "top1_token": " Yan", "top1_id": 18773, "top1_prob": 0.577426}
+{"prompt": "The home stadium of Boston Red Sox is the", "top1_token": " Fen", "top1_id": 36328, "top1_prob": 0.784081}
+{"prompt": "The home stadium of Los Angeles Dodgers is the", "top1_token": " Los", "top1_id": 8742, "top1_prob": 0.250846}
+{"prompt": "The home stadium of Chicago Cubs is the", "top1_token": " W", "top1_id": 411, "top1_prob": 0.462322}
+{"prompt": "The home stadium of San Francisco Giants is the", "top1_token": " AT", "top1_id": 4915, "top1_prob": 0.323368}
+{"prompt": "The home stadium of Los Angeles Lakers is the", "top1_token": " Sta", "top1_id": 30416, "top1_prob": 0.529002}
+{"prompt": "The home stadium of Golden State Warriors is the", "top1_token": " Oracle", "top1_id": 19792, "top1_prob": 0.493587}
+{"prompt": "The home stadium of Chicago Bulls is the", "top1_token": " United", "top1_id": 1986, "top1_prob": 0.715707}
+{"prompt": "The home stadium of Boston Celtics is the", "top1_token": " TD", "top1_id": 24246, "top1_prob": 0.883669}
+{"prompt": "The home stadium of Miami Heat is the", "top1_token": " American", "top1_id": 2448, "top1_prob": 0.624587}
+{"prompt": "The home stadium of Dallas Cowboys is the", "top1_token": " Cotton", "top1_id": 39339, "top1_prob": 0.230758}
+{"prompt": "The home stadium of New England Patriots is the", "top1_token": " Gil", "top1_id": 14383, "top1_prob": 0.852048}
+{"prompt": "The home stadium of Green Bay Packers is the", "top1_token": " Lam", "top1_id": 16967, "top1_prob": 0.795888}
+{"prompt": "The home stadium of Kansas City Chiefs is the", "top1_token": " Arrow", "top1_id": 39414, "top1_prob": 0.774945}
+{"prompt": "The home stadium of San Francisco 49ers is the", "top1_token": " Cand", "top1_id": 30011, "top1_prob": 0.5714}

@@ -1,0 +1,35 @@
+{"prompt": "The primary ingredient in guacamole is", "top1_token": " av", "top1_id": 1323, "top1_prob": 0.572891}
+{"prompt": "The primary ingredient in bread is", "top1_token": " flour", "top1_id": 12274, "top1_prob": 0.209971}
+{"prompt": "The primary ingredient in mayonnaise is", "top1_token": " egg", "top1_id": 7238, "top1_prob": 0.30243}
+{"prompt": "The primary ingredient in hummus is", "top1_token": " chick", "top1_id": 8734, "top1_prob": 0.269586}
+{"prompt": "The primary ingredient in risotto is", "top1_token": " rice", "top1_id": 11789, "top1_prob": 0.197625}
+{"prompt": "The primary ingredient in butter is", "top1_token": " milk", "top1_id": 8463, "top1_prob": 0.17355}
+{"prompt": "The primary ingredient in custard is", "top1_token": " eggs", "top1_id": 11624, "top1_prob": 0.130259}
+{"prompt": "The primary ingredient in salsa is", "top1_token": " tomatoes", "top1_id": 24806, "top1_prob": 0.354308}
+{"prompt": "The primary ingredient in pasta is", "top1_token": " flour", "top1_id": 12274, "top1_prob": 0.189}
+{"prompt": "The primary ingredient in kimchi is", "top1_token": " usually", "top1_id": 3798, "top1_prob": 0.121806}
+{"prompt": "The primary ingredient in natto is", "top1_token": " soy", "top1_id": 19175, "top1_prob": 0.108324}
+{"prompt": "The primary ingredient in ketchup is", "top1_token": " vinegar", "top1_id": 28140, "top1_prob": 0.317234}
+{"prompt": "The primary ingredient in paella is", "top1_token": " rice", "top1_id": 11789, "top1_prob": 0.517277}
+{"prompt": "The primary ingredient in granola is", "top1_token": " o", "top1_id": 258, "top1_prob": 0.315525}
+{"prompt": "The primary ingredient in mozzarella is", "top1_token": " milk", "top1_id": 8463, "top1_prob": 0.32033}
+{"prompt": "The primary ingredient in omelette is", "top1_token": " eggs", "top1_id": 11624, "top1_prob": 0.218783}
+{"prompt": "The primary ingredient in cheese is", "top1_token": " milk", "top1_id": 8463, "top1_prob": 0.177965}
+{"prompt": "The primary ingredient in miso is", "top1_token": " soy", "top1_id": 19175, "top1_prob": 0.138016}
+{"prompt": "The primary ingredient in cookie is", "top1_token": " flour", "top1_id": 12274, "top1_prob": 0.088498}
+{"prompt": "The primary ingredient in pesto is", "top1_token": " basil", "top1_id": 40683, "top1_prob": 0.369923}
+{"prompt": "The primary ingredient in chocolate is", "top1_token": " cocoa", "top1_id": 41621, "top1_prob": 0.599631}
+{"prompt": "The primary ingredient in tofu is", "top1_token": " soy", "top1_id": 19175, "top1_prob": 0.33401}
+{"prompt": "The primary ingredient in ice cream is", "top1_token": " cream", "top1_id": 10777, "top1_prob": 0.126835}
+{"prompt": "The primary ingredient in beer is", "top1_token": " malt", "top1_id": 33673, "top1_prob": 0.283989}
+{"prompt": "The primary ingredient in soy sauce is", "top1_token": " soy", "top1_id": 19175, "top1_prob": 0.177065}
+{"prompt": "The primary ingredient in popcorn is", "top1_token": " corn", "top1_id": 14128, "top1_prob": 0.212973}
+{"prompt": "The primary ingredient in coleslaw is", "top1_token": " cabbage", "top1_id": 42688, "top1_prob": 0.301586}
+{"prompt": "The primary ingredient in candy is", "top1_token": " sugar", "top1_id": 8618, "top1_prob": 0.219771}
+{"prompt": "The primary ingredient in bibimbap is", "top1_token": " rice", "top1_id": 11789, "top1_prob": 0.134803}
+{"prompt": "The primary ingredient in pancake is", "top1_token": " flour", "top1_id": 12274, "top1_prob": 0.108049}
+{"prompt": "The primary ingredient in sushi is", "top1_token": " rice", "top1_id": 11789, "top1_prob": 0.402034}
+{"prompt": "The primary ingredient in pudding is", "top1_token": " milk", "top1_id": 8463, "top1_prob": 0.084872}
+{"prompt": "The primary ingredient in pilaf is", "top1_token": " rice", "top1_id": 11789, "top1_prob": 0.118694}
+{"prompt": "The primary ingredient in gazpacho is", "top1_token": " tomatoes", "top1_id": 24806, "top1_prob": 0.147598}
+{"prompt": "The primary ingredient in curry is", "top1_token": " tur", "top1_id": 10709, "top1_prob": 0.172325}

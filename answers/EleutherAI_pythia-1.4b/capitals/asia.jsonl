@@ -1,0 +1,25 @@
+{"prompt": "What is the capital of Japan? Answer:", "top1_token": " Tokyo", "top1_id": 17413, "top1_prob": 0.276454}
+{"prompt": "What is the capital of Indonesia? Answer:", "top1_token": " Jak", "top1_id": 32319, "top1_prob": 0.731695}
+{"prompt": "What is the capital of Malaysia? Answer:", "top1_token": " K", "top1_id": 611, "top1_prob": 0.416862}
+{"prompt": "What is the capital of Singapore? Answer:", "top1_token": " Singapore", "top1_id": 16861, "top1_prob": 0.237676}
+{"prompt": "What is the capital of the Philippines? Answer:", "top1_token": " Manila", "top1_id": 43949, "top1_prob": 0.36568}
+{"prompt": "What is the capital of Pakistan? Answer:", "top1_token": " Islam", "top1_id": 8033, "top1_prob": 0.222741}
+{"prompt": "What is the capital of Bangladesh? Answer:", "top1_token": " Dh", "top1_id": 37287, "top1_prob": 0.781383}
+{"prompt": "What is the capital of Sri Lanka? Answer:", "top1_token": " Col", "top1_id": 2065, "top1_prob": 0.471768}
+{"prompt": "What is the capital of Nepal? Answer:", "top1_token": " Kath", "top1_id": 23843, "top1_prob": 0.417309}
+{"prompt": "What is the capital of Mongolia? Answer:", "top1_token": " U", "top1_id": 530, "top1_prob": 0.292927}
+{"prompt": "What is the capital of Kazakhstan? Answer:", "top1_token": " Ast", "top1_id": 15123, "top1_prob": 0.395277}
+{"prompt": "What is the capital of Uzbekistan? Answer:", "top1_token": " T", "top1_id": 308, "top1_prob": 0.535392}
+{"prompt": "What is the capital of Cambodia? Answer:", "top1_token": " Ph", "top1_id": 1777, "top1_prob": 0.63852}
+{"prompt": "What is the capital of Laos? Answer:", "top1_token": " V", "top1_id": 657, "top1_prob": 0.281521}
+{"prompt": "What is the capital of Afghanistan? Answer:", "top1_token": " K", "top1_id": 611, "top1_prob": 0.288889}
+{"prompt": "What is the capital of Iran? Answer:", "top1_token": " Tehran", "top1_id": 35889, "top1_prob": 0.340911}
+{"prompt": "What is the capital of Iraq? Answer:", "top1_token": " Baghdad", "top1_id": 39759, "top1_prob": 0.4547}
+{"prompt": "What is the capital of Israel? Answer:", "top1_token": " Jerusalem", "top1_id": 17913, "top1_prob": 0.436231}
+{"prompt": "What is the capital of Jordan? Answer:", "top1_token": " Am", "top1_id": 3052, "top1_prob": 0.586147}
+{"prompt": "What is the capital of Taiwan? Answer:", "top1_token": " Tai", "top1_id": 14616, "top1_prob": 0.34964}
+{"prompt": "What is the capital of North Korea? Answer:", "top1_token": " Py", "top1_id": 8462, "top1_prob": 0.435515}
+{"prompt": "What is the capital of Maldives? Answer:", "top1_token": " Male", "top1_id": 23588, "top1_prob": 0.208415}
+{"prompt": "What is the capital of Qatar? Answer:", "top1_token": " D", "top1_id": 399, "top1_prob": 0.39968}
+{"prompt": "What is the capital of United Arab Emirates? Answer:", "top1_token": " Abu", "top1_id": 26957, "top1_prob": 0.437832}
+{"prompt": "What is the capital of Oman? Answer:", "top1_token": " Mus", "top1_id": 4878, "top1_prob": 0.34347}

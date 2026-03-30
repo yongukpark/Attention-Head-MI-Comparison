@@ -1,0 +1,50 @@
+{"prompt": "I was furious about unfair treatment. The word for this feeling is '", "top1_token": "resent", "top1_id": 1631, "top1_prob": 0.093596}
+{"prompt": "I made a serious mistake that hurt someone. The word for this feeling is '", "top1_token": "gu", "top1_id": 4297, "top1_prob": 0.153414}
+{"prompt": "I remembered an embarrassing moment. The word for this feeling is '", "top1_token": "em", "top1_id": 358, "top1_prob": 0.026277}
+{"prompt": "I lost a competition I worked hard for. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.03385}
+{"prompt": "I waited for news that never arrived. The word for this feeling is '", "top1_token": "wait", "top1_id": 14061, "top1_prob": 0.045155}
+{"prompt": "I felt bitter about the outcome. The word for this feeling is '", "top1_token": "bit", "top1_id": 2713, "top1_prob": 0.033737}
+{"prompt": "I felt intense stress before a deadline. The word for this feeling is '", "top1_token": "an", "top1_id": 266, "top1_prob": 0.035964}
+{"prompt": "I felt alone in a crowded room. The word for this feeling is '", "top1_token": "alone", "top1_id": 21636, "top1_prob": 0.135259}
+{"prompt": "I felt ashamed of my behavior. The word for this feeling is '", "top1_token": "gu", "top1_id": 4297, "top1_prob": 0.110417}
+{"prompt": "I was blamed for something I didn't do. The word for this feeling is '", "top1_token": "bl", "top1_id": 1559, "top1_prob": 0.155592}
+{"prompt": "I was shocked by unexpected bad news. The word for this feeling is '", "top1_token": "shock", "top1_id": 35492, "top1_prob": 0.163945}
+{"prompt": "I felt overwhelmed by too many problems. The word for this feeling is '", "top1_token": "over", "top1_id": 1189, "top1_prob": 0.164489}
+{"prompt": "I felt deeply disappointed. The word for this feeling is '", "top1_token": "dis", "top1_id": 3431, "top1_prob": 0.082836}
+{"prompt": "I felt completely alone. The word for this feeling is '", "top1_token": "alone", "top1_id": 21636, "top1_prob": 0.056257}
+{"prompt": "I realized I had wasted a lot of time. The word for this feeling is '", "top1_token": "w", "top1_id": 88, "top1_prob": 0.023002}
+{"prompt": "I felt humiliated in public. The word for this feeling is '", "top1_token": "hum", "top1_id": 18256, "top1_prob": 0.287879}
+{"prompt": "I regretted a decision I made. The word for this feeling is '", "top1_token": "reg", "top1_id": 1747, "top1_prob": 0.059569}
+{"prompt": "I felt uneasy in a strange place. The word for this feeling is '", "top1_token": "fe", "top1_id": 453, "top1_prob": 0.05256}
+{"prompt": "I envied someone else's success. The word for this feeling is '", "top1_token": "en", "top1_id": 257, "top1_prob": 0.049397}
+{"prompt": "I worried about the future. The word for this feeling is '", "top1_token": "an", "top1_id": 266, "top1_prob": 0.064148}
+{"prompt": "I lost something very important to me. The word for this feeling is '", "top1_token": "loss", "top1_id": 18585, "top1_prob": 0.108218}
+{"prompt": "I realized I misunderstood something important. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.023651}
+{"prompt": "I felt extremely tired of everything. The word for this feeling is '", "top1_token": "t", "top1_id": 85, "top1_prob": 0.036224}
+{"prompt": "I realized something was morally wrong. The word for this feeling is '", "top1_token": "sin", "top1_id": 7432, "top1_prob": 0.062122}
+{"prompt": "I doubted my own ability. The word for this feeling is '", "top1_token": "d", "top1_id": 69, "top1_prob": 0.031443}
+{"prompt": "I saw someone else receive the credit for my work. The word for this feeling is '", "top1_token": "grat", "top1_id": 25923, "top1_prob": 0.024596}
+{"prompt": "I remembered a painful failure. The word for this feeling is '", "top1_token": "failure", "top1_id": 33699, "top1_prob": 0.098262}
+{"prompt": "I couldn't stop worrying about a problem. The word for this feeling is '", "top1_token": "an", "top1_id": 266, "top1_prob": 0.116575}
+{"prompt": "I felt nervous before an important moment. The word for this feeling is '", "top1_token": "fe", "top1_id": 453, "top1_prob": 0.055442}
+{"prompt": "I felt strong frustration. The word for this feeling is '", "top1_token": "fr", "top1_id": 925, "top1_prob": 0.032239}
+{"prompt": "I saw something disgusting. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.048905}
+{"prompt": "I feared something bad might happen. The word for this feeling is '", "top1_token": "fe", "top1_id": 453, "top1_prob": 0.115307}
+{"prompt": "I felt despair about the situation. The word for this feeling is '", "top1_token": "des", "top1_id": 3229, "top1_prob": 0.083746}
+{"prompt": "I saw an opportunity slip away. The word for this feeling is '", "top1_token": "l", "top1_id": 77, "top1_prob": 0.031005}
+{"prompt": "I saw someone I care about suffering. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.209241}
+{"prompt": "I blamed myself for a mistake. The word for this feeling is '", "top1_token": "gu", "top1_id": 4297, "top1_prob": 0.240303}
+{"prompt": "I felt trapped in a difficult situation. The word for this feeling is '", "top1_token": "tra", "top1_id": 7604, "top1_prob": 0.053743}
+{"prompt": "I realized I trusted someone who betrayed me. The word for this feeling is '", "top1_token": "bet", "top1_id": 9900, "top1_prob": 0.084397}
+{"prompt": "I distrusted someone's intentions. The word for this feeling is '", "top1_token": "susp", "top1_id": 39686, "top1_prob": 0.047775}
+{"prompt": "I kept thinking about a past mistake. The word for this feeling is '", "top1_token": "gu", "top1_id": 4297, "top1_prob": 0.053926}
+{"prompt": "I realized I had disappointed someone I respect. The word for this feeling is '", "top1_token": "dis", "top1_id": 3431, "top1_prob": 0.055803}
+{"prompt": "I said something I deeply regret. The word for this feeling is '", "top1_token": "gu", "top1_id": 4297, "top1_prob": 0.047889}
+{"prompt": "I felt jealous of someone close to me. The word for this feeling is '", "top1_token": "je", "top1_id": 5173, "top1_prob": 0.097587}
+{"prompt": "I realized I made a terrible decision. The word for this feeling is '", "top1_token": "em", "top1_id": 358, "top1_prob": 0.026382}
+{"prompt": "I felt deep resentment toward someone. The word for this feeling is '", "top1_token": "resent", "top1_id": 1631, "top1_prob": 0.101721}
+{"prompt": "I experienced unfair treatment. The word for this feeling is '", "top1_token": "un", "top1_id": 328, "top1_prob": 0.04301}
+{"prompt": "I lost confidence in myself. The word for this feeling is '", "top1_token": "loss", "top1_id": 18585, "top1_prob": 0.045364}
+{"prompt": "I experienced deep sadness. The word for this feeling is '", "top1_token": "s", "top1_id": 84, "top1_prob": 0.150796}
+{"prompt": "I prepared everything for the party, but nobody showed up. The word for this feeling is '", "top1_token": "dis", "top1_id": 3431, "top1_prob": 0.058071}
+{"prompt": "I felt deep grief after loss. The word for this feeling is '", "top1_token": "g", "top1_id": 72, "top1_prob": 0.160822}

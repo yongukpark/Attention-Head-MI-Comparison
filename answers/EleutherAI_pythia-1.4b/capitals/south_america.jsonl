@@ -1,0 +1,11 @@
+{"prompt": "What is the capital of Argentina? Answer:", "top1_token": " Buenos", "top1_id": 46287, "top1_prob": 0.571879}
+{"prompt": "What is the capital of Chile? Answer:", "top1_token": " Santiago", "top1_id": 38436, "top1_prob": 0.487693}
+{"prompt": "What is the capital of Peru? Answer:", "top1_token": " L", "top1_id": 418, "top1_prob": 0.360312}
+{"prompt": "What is the capital of Colombia? Answer:", "top1_token": " Bog", "top1_id": 27737, "top1_prob": 0.604712}
+{"prompt": "What is the capital of Ecuador? Answer:", "top1_token": " Q", "top1_id": 1165, "top1_prob": 0.53586}
+{"prompt": "What is the capital of Bolivia? Answer:", "top1_token": " La", "top1_id": 3905, "top1_prob": 0.356073}
+{"prompt": "What is the capital of Uruguay? Answer:", "top1_token": " Monte", "top1_id": 16448, "top1_prob": 0.600808}
+{"prompt": "What is the capital of Paraguay? Answer:", "top1_token": " As", "top1_id": 1284, "top1_prob": 0.360598}
+{"prompt": "What is the capital of Venezuela? Answer:", "top1_token": " Car", "top1_id": 2639, "top1_prob": 0.181504}
+{"prompt": "What is the capital of Guyana? Answer:", "top1_token": " Ge", "top1_id": 3096, "top1_prob": 0.197627}
+{"prompt": "What is the capital of Suriname? Answer:", "top1_token": " Par", "top1_id": 2956, "top1_prob": 0.134814}

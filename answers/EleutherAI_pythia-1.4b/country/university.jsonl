@@ -1,0 +1,50 @@
+{"prompt": "What is the country of Seoul National University? Answer: The country is '", "top1_token": "South", "top1_id": 17967, "top1_prob": 0.347909}
+{"prompt": "What is the country of ETH Zurich? Answer: The country is '", "top1_token": "Sw", "top1_id": 12455, "top1_prob": 0.298738}
+{"prompt": "What is the country of University of Toronto? Answer: The country is '", "top1_token": "Canada", "top1_id": 32235, "top1_prob": 0.611621}
+{"prompt": "What is the country of University of Tokyo? Answer: The country is '", "top1_token": "Japan", "top1_id": 19291, "top1_prob": 0.656722}
+{"prompt": "What is the country of Karolinska Institutet? Answer: The country is '", "top1_token": "Swed", "top1_id": 42589, "top1_prob": 0.779302}
+{"prompt": "What is the country of University of Melbourne? Answer: The country is '", "top1_token": "Australia", "top1_id": 37150, "top1_prob": 0.581875}
+{"prompt": "What is the country of Tsinghua University? Answer: The country is '", "top1_token": "China", "top1_id": 22800, "top1_prob": 0.398716}
+{"prompt": "What is the country of Technical University of Munich? Answer: The country is '", "top1_token": "Germany", "top1_id": 37796, "top1_prob": 0.566301}
+{"prompt": "What is the country of University of British Columbia? Answer: The country is '", "top1_token": "Canada", "top1_id": 32235, "top1_prob": 0.523122}
+{"prompt": "What is the country of National University of Singapore? Answer: The country is '", "top1_token": "Sing", "top1_id": 14017, "top1_prob": 0.694693}
+{"prompt": "What is the country of Sorbonne University? Answer: The country is '", "top1_token": "France", "top1_id": 33639, "top1_prob": 0.353916}
+{"prompt": "What is the country of McGill University? Answer: The country is '", "top1_token": "Canada", "top1_id": 32235, "top1_prob": 0.549232}
+{"prompt": "What is the country of Kyoto University? Answer: The country is '", "top1_token": "Japan", "top1_id": 19291, "top1_prob": 0.452958}
+{"prompt": "What is the country of KAIST? Answer: The country is '", "top1_token": "K", "top1_id": 44, "top1_prob": 0.54747}
+{"prompt": "What is the country of University of Copenhagen? Answer: The country is '", "top1_token": "Den", "top1_id": 20990, "top1_prob": 0.888574}
+{"prompt": "What is the country of Monash University? Answer: The country is '", "top1_token": "Australia", "top1_id": 37150, "top1_prob": 0.62635}
+{"prompt": "What is the country of Peking University? Answer: The country is '", "top1_token": "China", "top1_id": 22800, "top1_prob": 0.283029}
+{"prompt": "What is the country of University of Helsinki? Answer: The country is '", "top1_token": "Fin", "top1_id": 17398, "top1_prob": 0.726056}
+{"prompt": "What is the country of Ghent University? Answer: The country is '", "top1_token": "Bel", "top1_id": 15343, "top1_prob": 0.327744}
+{"prompt": "What is the country of Nanyang Technological University? Answer: The country is '", "top1_token": "Sing", "top1_id": 14017, "top1_prob": 0.203684}
+{"prompt": "What is the country of Yonsei University? Answer: The country is '", "top1_token": "South", "top1_id": 17967, "top1_prob": 0.221841}
+{"prompt": "What is the country of University of Zurich? Answer: The country is '", "top1_token": "Sw", "top1_id": 12455, "top1_prob": 0.581475}
+{"prompt": "What is the country of University of Alberta? Answer: The country is '", "top1_token": "Canada", "top1_id": 32235, "top1_prob": 0.573364}
+{"prompt": "What is the country of Osaka University? Answer: The country is '", "top1_token": "Japan", "top1_id": 19291, "top1_prob": 0.399846}
+{"prompt": "What is the country of Lund University? Answer: The country is '", "top1_token": "Swed", "top1_id": 42589, "top1_prob": 0.477645}
+{"prompt": "What is the country of University of Sydney? Answer: The country is '", "top1_token": "Australia", "top1_id": 37150, "top1_prob": 0.551404}
+{"prompt": "What is the country of Fudan University? Answer: The country is '", "top1_token": "China", "top1_id": 22800, "top1_prob": 0.48722}
+{"prompt": "What is the country of Heidelberg University? Answer: The country is '", "top1_token": "Germany", "top1_id": 37796, "top1_prob": 0.682745}
+{"prompt": "What is the country of University of Montreal? Answer: The country is '", "top1_token": "Canada", "top1_id": 32235, "top1_prob": 0.573886}
+{"prompt": "What is the country of Korea University? Answer: The country is '", "top1_token": "K", "top1_id": 44, "top1_prob": 0.477795}
+{"prompt": "What is the country of PSL Research University? Answer: The country is '", "top1_token": "Pak", "top1_id": 39270, "top1_prob": 0.25091}
+{"prompt": "What is the country of University of Hong Kong? Answer: The country is '", "top1_token": "H", "top1_id": 41, "top1_prob": 0.465359}
+{"prompt": "What is the country of Tohoku University? Answer: The country is '", "top1_token": "Japan", "top1_id": 19291, "top1_prob": 0.449915}
+{"prompt": "What is the country of Aarhus University? Answer: The country is '", "top1_token": "Den", "top1_id": 20990, "top1_prob": 0.831988}
+{"prompt": "What is the country of University of Queensland? Answer: The country is '", "top1_token": "Australia", "top1_id": 37150, "top1_prob": 0.598197}
+{"prompt": "What is the country of Zhejiang University? Answer: The country is '", "top1_token": "Z", "top1_id": 59, "top1_prob": 0.438376}
+{"prompt": "What is the country of Aalto University? Answer: The country is '", "top1_token": "Fin", "top1_id": 17398, "top1_prob": 0.419274}
+{"prompt": "What is the country of KU Leuven? Answer: The country is '", "top1_token": "Bel", "top1_id": 15343, "top1_prob": 0.291011}
+{"prompt": "What is the country of National Taiwan University? Answer: The country is '", "top1_token": "T", "top1_id": 53, "top1_prob": 0.614415}
+{"prompt": "What is the country of University of Basel? Answer: The country is '", "top1_token": "Sw", "top1_id": 12455, "top1_prob": 0.548321}
+{"prompt": "What is the country of Sungkyunkwan University? Answer: The country is '", "top1_token": "K", "top1_id": 44, "top1_prob": 0.231495}
+{"prompt": "What is the country of Nagoya University? Answer: The country is '", "top1_token": "Japan", "top1_id": 19291, "top1_prob": 0.57782}
+{"prompt": "What is the country of Uppsala University? Answer: The country is '", "top1_token": "Swed", "top1_id": 42589, "top1_prob": 0.825708}
+{"prompt": "What is the country of University of New South Wales? Answer: The country is '", "top1_token": "Australia", "top1_id": 37150, "top1_prob": 0.657896}
+{"prompt": "What is the country of Sun Yat-sen University? Answer: The country is '", "top1_token": "China", "top1_id": 22800, "top1_prob": 0.311625}
+{"prompt": "What is the country of EPFL? Answer: The country is '", "top1_token": "Sw", "top1_id": 12455, "top1_prob": 0.237182}
+{"prompt": "What is the country of Hanyang University? Answer: The country is '", "top1_token": "H", "top1_id": 41, "top1_prob": 0.152643}
+{"prompt": "What is the country of University of Oslo? Answer: The country is '", "top1_token": "Nor", "top1_id": 22427, "top1_prob": 0.717279}
+{"prompt": "What is the country of Stockholm University? Answer: The country is '", "top1_token": "Swed", "top1_id": 42589, "top1_prob": 0.687957}
+{"prompt": "What is the country of Ludwig Maximilian University of Munich? Answer: The country is '", "top1_token": "Germany", "top1_id": 37796, "top1_prob": 0.377018}
