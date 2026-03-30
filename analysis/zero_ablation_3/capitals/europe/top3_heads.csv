@@ -1,0 +1,4 @@
+head,prompt_count,base_token_prob_delta_mean,base_token_prob_decrease_ratio,base_token_changed_ratio,base_token_logit_delta_mean,base_token_rank_post_mean,entropy_delta_mean,kl_divergence_mean
+L11.H11,20,-0.19591064453125,1.0,0.1,-1.39765625,1,1.3661511659622192,0.24429879933595658
+L12.H8,20,-0.1540771484375,1.0,0.05,-1.1234375,1,1.1060646295547485,0.12015438042581081
+L15.H7,20,-0.107379150390625,0.9,0.0,-0.6328125,1,0.7457269191741943,0.13879636330530049

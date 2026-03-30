@@ -47,10 +47,10 @@ python analysis/select_heads.py \
     --input outputs/zero_ablation \
     --method zero_ablation \
     --top-k 5 \
-    --output analysis/resampling/
+    --output analysis/zero_ablation/
 
 # Replace to json format
-python analysis/build_annotation.py \
+python analysis/build_annotations.py \
     --input analysis/zero_ablation \
     --output analysis/zero_ablation/annotations.json
 
